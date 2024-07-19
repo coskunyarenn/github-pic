@@ -9,19 +9,21 @@
             "description": "Fluffy pancakes served with maple syrup and fresh berries.",
             "price": 8.99,
             "availability": true,
-            "imagee": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/banner/1.jpg"
+            "imagee": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
           },
           {
             "name": "Avocado Toast",
             "description": "Toasted sourdough with mashed avocado, cherry tomatoes, and a poached egg.",
             "price": 7.99,
-            "availability": true
+            "availability": true,
+            "imagee": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
           },
           {
             "name": "Omelette",
             "description": "Three-egg omelette with your choice of fillings: cheese, ham, mushrooms, spinach.",
             "price": 9.99,
-            "availability": true
+            "availability": true,
+            "imagee": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
           }
         ]
       },
@@ -32,19 +34,22 @@
             "name": "Caesar Salad",
             "description": "Romaine lettuce, parmesan cheese, croutons, and Caesar dressing.",
             "price": 10.99,
-            "availability": true
+            "availability": true,
+            "imagee": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
           },
           {
             "name": "Club Sandwich",
             "description": "Triple-layer sandwich with turkey, bacon, lettuce, tomato, and mayo. Served with fries.",
             "price": 12.99,
-            "availability": true
+            "availability": true,
+            "imagee": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
           },
           {
             "name": "Veggie Burger",
             "description": "Grilled vegetable patty with lettuce, tomato, onion, and aioli. Served with a side salad.",
             "price": 11.99,
-            "availability": true
+            "availability": true,
+            "imagee": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
           }
         ]
       },
@@ -55,19 +60,22 @@
             "name": "Cappuccino",
             "description": "Espresso with steamed milk and a thick layer of foam.",
             "price": 4.5,
-            "availability": true
+            "availability": true,
+            "imagee": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
           },
           {
             "name": "Fresh Orange Juice",
             "description": "Freshly squeezed orange juice.",
             "price": 3.5,
-            "availability": true
+            "availability": true,
+            "imagee": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
           },
           {
             "name": "Herbal Tea",
             "description": "Selection of herbal teas: chamomile, mint, lemon ginger.",
             "price": 2.99,
-            "availability": true
+            "availability": true,
+            "imagee": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
           }
         ]
       },
@@ -78,19 +86,22 @@
             "name": "Chocolate Cake",
             "description": "Rich chocolate cake with a molten center.",
             "price": 6.99,
-            "availability": true
+            "availability": true,
+            "imagee": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
           },
           {
             "name": "Cheesecake",
             "description": "Classic New York cheesecake with a graham cracker crust.",
             "price": 5.99,
-            "availability": true
+            "availability": true,
+            "imagee": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
           },
           {
             "name": "Ice Cream Sundae",
             "description": "Vanilla ice cream topped with chocolate sauce, whipped cream, and a cherry.",
             "price": 4.99,
-            "availability": false
+            "availability": false,
+            "imagee": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
           }
         ]
       }
