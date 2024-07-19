@@ -2,7 +2,8 @@
   "menu": {
     "sections": [
       {
-        "name": "Breakfast",
+        "name": "Yemekler",
+        "deepNote": "",
         "items": [
           {
             "name": "Pancakes",
@@ -28,7 +29,8 @@
         ]
       },
       {
-        "name": "Lunch",
+        "name": "Fit Yemekler",
+        "deepNote": "",
         "items": [
           {
             "name": "Caesar Salad",
@@ -54,7 +56,8 @@
         ]
       },
       {
-        "name": "Beverages",
+        "name": "Cold Drinks",
+        "deepNote": "",
         "items": [
           {
             "name": "Cappuccino",
@@ -80,7 +83,35 @@
         ]
       },
       {
-        "name": "Desserts",
+        "name": "Hot Drinks",
+        "deepNote": "",
+        "items": [
+          {
+            "name": "Chocolate Cake",
+            "description": "Rich chocolate cake with a molten center.",
+            "price": 6.99,
+            "availability": true,
+            "imagee": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+          },
+          {
+            "name": "Cheesecake",
+            "description": "Classic New York cheesecake with a graham cracker crust.",
+            "price": 5.99,
+            "availability": true,
+            "imagee": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+          },
+          {
+            "name": "Ice Cream Sundae",
+            "description": "Vanilla ice cream topped with chocolate sauce, whipped cream, and a cherry.",
+            "price": 4.99,
+            "availability": false,
+            "imagee": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+          }
+        ]
+      },
+      {
+        "name": "Alcholic Drinks",
+        "deepNote": "After 8PM",
         "items": [
           {
             "name": "Chocolate Cake",
