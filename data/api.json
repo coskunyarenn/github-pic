@@ -2,8 +2,9 @@
   "menu": {
     "sections": [
       {
-        "name": "Yemekler",
+        "title": "Yemekler",
         "deepNote": "",
+
         "items": [
           {
             "name": "Pancakes",
@@ -29,7 +30,7 @@
         ]
       },
       {
-        "name": "Fit Yemekler",
+        "title": "Fit Yemekler",
         "deepNote": "",
         "items": [
           {
@@ -56,7 +57,7 @@
         ]
       },
       {
-        "name": "Cold Drinks",
+        "title": "Cold Drinks",
         "deepNote": "",
         "items": [
           {
@@ -83,7 +84,7 @@
         ]
       },
       {
-        "name": "Hot Drinks",
+        "title": "Hot Drinks",
         "deepNote": "",
         "items": [
           {
@@ -110,7 +111,7 @@
         ]
       },
       {
-        "name": "Alcholic Drinks",
+        "title": "Alcholic Drinks",
         "deepNote": "After 8PM",
         "items": [
           {
