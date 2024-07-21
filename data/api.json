@@ -20,7 +20,7 @@
                 "description": "Toasted sourdough with mashed avocado, cherry tomatoes, and a poached egg.",
                 "price": 7.99,
                 "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink2 (1).jpg"
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink2.jpg"
               },
               {
                 "name": "Somon Izgara",
@@ -39,21 +39,21 @@
                 "description": "Fluffy pancakes served with maple syrup and fresh berries.",
                 "price": 8.99,
                 "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink4.jpg"
               },
               {
                 "name": "Cheese Burger",
                 "description": "Toasted sourdough with mashed avocado, cherry tomatoes, and a poached egg.",
                 "price": 7.99,
                 "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink5.jpg"
               },
               {
                 "name": "1938 Double Burger",
                 "description": "Three-egg omelette with your choice of fillings: cheese, ham, mushrooms, spinach.",
                 "price": 9.99,
                 "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink6.jpg"
               }
             ]
           },
@@ -65,21 +65,21 @@
                 "description": "Fluffy pancakes served with maple syrup and fresh berries.",
                 "price": 8.99,
                 "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink7.jpg"
               },
               {
                 "name": "Kaşar ve Domatesli Tost",
                 "description": "Toasted sourdough with mashed avocado, cherry tomatoes, and a poached egg.",
                 "price": 7.99,
                 "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink8.jpg"
               },
               {
                 "name": "Tavuk Sandviç",
                 "description": "Three-egg omelette with your choice of fillings: cheese, ham, mushrooms, spinach.",
                 "price": 9.99,
                 "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink9.jpg"
               }
             ]
           },
@@ -91,7 +91,7 @@
                 "description": "Fluffy pancakes served with maple syrup and fresh berries.",
                 "price": 8.99,
                 "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink10.jpg"
               },
               {
                 "name": "Spaghetti Bolognaise",
