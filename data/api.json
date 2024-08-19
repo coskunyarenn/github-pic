@@ -317,9 +317,37 @@
             "menu": "Atıştırmalıklar",
             "items": [
               {
-                "name": "Steak Wraps",
-                "description": "Fluffy pancakes served with maple syrup and fresh berries.",
+                "name": "Keyif Tabağı (2 kişilik/ For 2 people - 4 kişilik/For 4 people)",
+                "description": "Soğan halkası, samosa, mini köfte topları, çıtır tavuk, kaşık patates, sosis, sigara böreği ve soslar (Onion rings, samosas, mini meatballs, crispy chicken, fries, mini chipola, sausages, cigarette roll and a mix of sauces)",
                 "price": 8.99,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              },
+              {
+                "name": "Çıtır Asya Tavuk",
+                "description": "Pennelenmiş çıtır tavuk parçaları, salsa verde, meksikan biberi, sweet chilli sos ve baharatlı patates kızartması ile servis edilir (bread crispy chicken pieces served with salsa verde, mexican chilli peppers, sweet chilli clipping sauce and fries)",
+                "price": 9.99,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              },
+              {
+                "name": "Classic Nachos",
+                "description": "Çedar peyniri, Meksika fasulyesi, jalepeno biberi, mısır, guacamole ve salsa (Cheaddar cheese, red kidney beans, jalapenos, sweetcorn, guacamole and salsa)",
+                "price": 9.99,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              },
+              {
+                "name": "Nachos Beef",
+                "description": "Marine edilmiş et parçaları, çedar peyniri, meksika fasulyesi, jalepeno biberi, mısır, guacamole ve salsa (marinated beef strips, cheddar cheese, red kidney beans, jalepenos, sweetcorn, guacamole and salsa )",
+                "price": 9.99,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              },
+              {
+                "name": "Nachos Chicken",
+                "description": "marine edilmiş tavuk parçaları, çedar peyniri, meksika fasulyesi, jalepeno biberi, mısır, guacamole ve salsa (marinated chicken strips, cheddar cheese, red kidney beans, jalepenos, sweetcorn, guacamole and salsa )",
+                "price": 9.99,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               }
