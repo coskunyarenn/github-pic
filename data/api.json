@@ -162,29 +162,36 @@
             "menu": "Dürüm ve Taco",
             "items": [
               {
-                "name": "Steak Wraps",
-                "description": "Fluffy pancakes served with maple syrup and fresh berries.",
+                "name": "Tavuk Wrap",
+                "description": "(Tavuk parçaları, renkli biberler, soğan, marul, kaşar peyniri, kaşık patatesler ve naneli yoğurt) (Sliced chicken, mixed peppers, onions, mushrooms, cheddar cheese with a side of mint yogurt)",
                 "price": 8.99,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Chiken Wrap",
-                "description": "Toasted sourdough with mashed avocado, cherry tomatoes, and a poached egg.",
+                "name": "Vegeteryan Wrap",
+                "description": "renkli biberler, kabak, mantar, soğan, domates, marul, range ve domates sosu eşliğinde (mixed peppers, onions, mushrooms, cheddar cheese with a side of range and tangy tomato sauce)",
                 "price": 7.99,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Chiken Quesedilla",
-                "description": "Three-egg omelette with your choice of fillings: cheese, ham, mushrooms, spinach.",
+                "name": "Vegetarian Tacos",
+                "description": "Tortilla taco, karışık fırınlanmış sebzeler, mısır, jalapeno, meksika fasulyesi, çedar peyniri (Tortilla taco, mixed oven cooked vegetables, sweetcorn, jalapenos, red kidney beans and cheddar cheese)",
                 "price": 9.99,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Steak Quesedilla",
-                "description": "Three-egg omelette with your choice of fillings: cheese, ham, mushrooms, spinach.",
+                "name": "Chicken Tacos",
+                "description": "sandviç ekmeği, sezar sos, roka, dilim domatesler ve ızgara tavuk (traditional sandwich bread, ceaser sauce, rocket, sliced tomatoes and grilled chicken)",
+                "price": 9.99,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              },
+              {
+                "name": "Steak Tacos",
+                "description": "Konfit pişmiş dana eti, jalapeno, meksika fasulyesi, çedar peynirli (Tortilla taco, sliced steak, sweetcorn, jalapenos, red kidney beans and cheddar cheese)",
                 "price": 9.99,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
