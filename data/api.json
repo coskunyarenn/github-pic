@@ -658,23 +658,58 @@
             "menu": "Biralar",
             "items": [
               {
-                "name": "Et Fajita Kase",
-                "description": "Fluffy pancakes served with maple syrup and fresh berries.",
-                "price": 8.99,
+                "name": "Efes ",
+                "description": "50cl",
+                "price": 120,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Balsamic Tavuk Şiş",
-                "description": "Toasted sourdough with mashed avocado, cherry tomatoes, and a poached egg.",
-                "price": 7.99,
+                "name": "Bomonti Filtresiz",
+                "description": "50cl",
+                "price": 150,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Köfte Kase",
-                "description": "Three-egg omelette with your choice of fillings: cheese, ham, mushrooms, spinach.",
-                "price": 9.99,
+                "name": "Becks",
+                "description": "50cl",
+                "price": 120,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              },
+              {
+                "name": "Bud ",
+                "description": "50cl",
+                "price": 150,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              },
+              {
+                "name": "Miller ",
+                "description": "33cl",
+                "price": 120,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              },
+              {
+                "name": "Corona  ",
+                "description": "33cl",
+                "price": 150,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              },
+              {
+                "name": "Heineken  ",
+                "description": "33cl",
+                "price": 120,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              },
+              {
+                "name": "Strongbow ",
+                "description": "",
+                "price": 150,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               }
