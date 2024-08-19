@@ -115,22 +115,43 @@
             "menu": "Pasta ve Noodle",
             "items": [
               {
-                "name": "Penne Arrabiata",
-                "description": "Fluffy pancakes served with maple syrup and fresh berries.",
+                "name": "Penne Pomodoro/Arabiata",
+                "description": "İtalyan domates soslu penne (Penne with Italian tomato sauce)",
                 "price": 8.99,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink10.jpg"
               },
               {
                 "name": "Spaghetti Bolognaise",
-                "description": "Toasted sourdough with mashed avocado, cherry tomatoes, and a poached egg.",
+                "description": "Bolenez soslu Spagetti (Spaghetti with Bolognese sauce)",
                 "price": 7.99,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Papardelle Al Freddo",
-                "description": "Three-egg omelette with your choice of fillings: cheese, ham, mushrooms, spinach.",
+                "name": "Fettuccine Al Fredo",
+                "description": "Tavuk, mantar, beyaz şarap ve hafif krema soslu Papardelle (Papardelle with chicken, mushrooms, white wine and light cream sauce)",
+                "price": 9.99,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              },
+              {
+                "name": "Sebzeli Noodle",
+                "description": "renkli biber, mantar, soğan, oyster sos, susam yağı ve soya filizi (mixed peppers, mushrooms, onions, oyster sauce, sesame oil, soy sauce and beansprouts)",
+                "price": 9.99,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              },
+              {
+                "name": "Tavuklu Noodles",
+                "description": "Tavuk göğüs parçaları, renkli biberler, mantar, soğan, oyster sos, susam yağı, soya sosu ve soya filizi (Sliced grilled chicken, mixed peppers, mushrooms, onions, oyster sauce, sesame oil, soy sauce and beansprouts)",
+                "price": 9.99,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              },
+              {
+                "name": "Et Noodles",
+                "description": "Dana bonfile parçaları, renkli biberler, mantar, soğan, oyster sos, susam yağı, soya sosu ve soya filizi (Sliced beef, mixed peppers, mushrooms, onions, oyster sauce, sesame oil, soy sauce and beansprouts)",
                 "price": 9.99,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
