@@ -10,14 +10,14 @@
             "items": [
               {
                 "name": "Tavuk Izgara",
-                "description": "Fluffy pancakes served with maple syrup and fresh berries.",
+                "description": "(Izgara tavuk, patates püresi, haşlanmış sebzeler ve yoğurt)(Grilled chicken breast, mashed potatos, boiled mixed veg and naturel greek yogurt)",
                 "price": 8.99,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
                 "name": "Köfte Izgara",
-                "description": "Toasted sourdough with mashed avocado, cherry tomatoes, and a poached egg.",
+                "description": "El Yapımı köfte, kıtır esmer ekmek, ızgara domates, ızgara biber, harissa sos ve kaşık patates ve ",
                 "price": 7.99,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink2.jpg"
@@ -84,7 +84,7 @@
             ]
           },
           {
-            "menu": "Pasta",
+            "menu": "Pasta ve Noodle",
             "items": [
               {
                 "name": "Penne Arrabiata",
@@ -110,7 +110,7 @@
             ]
           },
           {
-            "menu": "Wraps",
+            "menu": "Dürüm ve Taco",
             "items": [
               {
                 "name": "Steak Wraps",
@@ -141,6 +141,54 @@
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               }
             ]
+          },
+          {
+            "menu": "Pizza",
+            "items": [
+              {
+                "name": "Steak Wraps",
+                "description": "Fluffy pancakes served with maple syrup and fresh berries.",
+                "price": 8.99,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              }
+            ]
+          },
+          {
+            "menu": "Kahvaltılar",
+            "items": [
+              {
+                "name": "Steak Wraps",
+                "description": "Fluffy pancakes served with maple syrup and fresh berries.",
+                "price": 8.99,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              }
+            ]
+          },
+          {
+            "menu": "Atıştırmalıklar",
+            "items": [
+              {
+                "name": "Steak Wraps",
+                "description": "Fluffy pancakes served with maple syrup and fresh berries.",
+                "price": 8.99,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              }
+            ]
+          },
+          {
+            "menu": "Salatalar",
+            "items": [
+              {
+                "name": "Steak Wraps",
+                "description": "Fluffy pancakes served with maple syrup and fresh berries.",
+                "price": 8.99,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              }
+            ]
           }
         ]
       },
@@ -149,7 +197,7 @@
         "deepNote": "",
         "subSections": [
           {
-            "menu": "Fit Ana Yemekler",
+            "menu": "Porridge",
             "items": [
               {
                 "name": "Et Fajita Kase",
@@ -173,105 +221,15 @@
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               }
             ]
-          },
-          {
-            "menu": "Yulaf Kaseleri",
-            "items": [
-              {
-                "name": "Yulaf Kase 1",
-                "description": "Fluffy pancakes served with maple syrup and fresh berries.",
-                "price": 8.99,
-                "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
-              },
-              {
-                "name": "Yulaf Kase 2",
-                "description": "Toasted sourdough with mashed avocado, cherry tomatoes, and a poached egg.",
-                "price": 7.99,
-                "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
-              },
-              {
-                "name": "Yulaf Kase 3",
-                "description": "Three-egg omelette with your choice of fillings: cheese, ham, mushrooms, spinach.",
-                "price": 9.99,
-                "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
-              }
-            ]
-          },
-          {
-            "menu": "Fit Kahvaltılar",
-            "items": [
-              {
-                "name": "Fit Kahvaltı Tabağı 1",
-                "description": "Fluffy pancakes served with maple syrup and fresh berries.",
-                "price": 8.99,
-                "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
-              },
-              {
-                "name": "Fit Kahvaltı Tabağı 1",
-                "description": "Toasted sourdough with mashed avocado, cherry tomatoes, and a poached egg.",
-                "price": 7.99,
-                "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
-              }
-            ]
-          },
-          {
-            "menu": "Fit Tost ve Sandiwiçler",
-            "items": [
-              {
-                "name": "Fit Tavuklu Tost",
-                "description": "Fluffy pancakes served with maple syrup and fresh berries.",
-                "price": 8.99,
-                "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
-              },
-              {
-                "name": "Fit Çift Füme Tost",
-                "description": "Toasted sourdough with mashed avocado, cherry tomatoes, and a poached egg.",
-                "price": 7.99,
-                "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
-              },
-              {
-                "name": "Fit Steak Sandiwiç",
-                "description": "Three-egg omelette with your choice of fillings: cheese, ham, mushrooms, spinach.",
-                "price": 9.99,
-                "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
-              },
-              {
-                "name": "Fit Tavuklu Sandiwiç",
-                "description": "Three-egg omelette with your choice of fillings: cheese, ham, mushrooms, spinach.",
-                "price": 9.99,
-                "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
-              }
-            ]
-          },
-          {
-            "menu": "Salatalar",
-            "items": [
-              {
-                "name": "Somon Füme Salata",
-                "description": "Fluffy pancakes served with maple syrup and fresh berries.",
-                "price": 8.99,
-                "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
-              }
-            ]
           }
         ]
       },
       {
-        "title": "Cold Drinks",
+        "title": "İçecekler",
         "deepNote": "",
         "subSections": [
           {
-            "menu": "Soft Drinks",
+            "menu": "Soft içecekler",
             "items": [
               {
                 "name": "Britvic Tonic",
@@ -346,7 +304,7 @@
             ]
           },
           {
-            "menu": "Ice Coffees",
+            "menu": "Kahveler",
             "items": [
               {
                 "name": "Ice Latte",
@@ -379,7 +337,7 @@
             ]
           },
           {
-            "menu": "Vitamin Bar",
+            "menu": "Milkshakes",
             "items": [
               {
                 "name": "Fresh Orange",
@@ -412,7 +370,7 @@
             ]
           },
           {
-            "menu": "Italian Soda",
+            "menu": "Smoothies",
             "items": [
               {
                 "name": "Bubble Gum",
@@ -443,121 +401,16 @@
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               }
             ]
-          },
-          {
-            "menu": "Milk Shakes",
-            "items": [
-              {
-                "name": "Vanilla",
-                "description": "Fluffy pancakes served with maple syrup and fresh berries.",
-                "price": 8.99,
-                "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
-              }
-            ]
-          },
-          {
-            "menu": "Smoothies",
-            "items": [
-              {
-                "name": "Melon / Watermelon",
-                "description": "Fluffy pancakes served with maple syrup and fresh berries.",
-                "price": 8.99,
-                "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
-              }
-            ]
-          },
-          {
-            "menu": "Frozens",
-            "items": [
-              {
-                "name": "Apple",
-                "description": "Fluffy pancakes served with maple syrup and fresh berries.",
-                "price": 8.99,
-                "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
-              }
-            ]
-          },
-          {
-            "menu": "Vanilla",
-            "items": [
-              {
-                "name": "Somon Füme Salata",
-                "description": "Fluffy pancakes served with maple syrup and fresh berries.",
-                "price": 8.99,
-                "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
-              }
-            ]
           }
         ]
       },
+
       {
-        "title": "Hot Drinks",
-        "deepNote": "",
-        "subSections": [
-          {
-            "menu": "Coffees",
-            "items": [
-              {
-                "name": "Et Fajita Kase",
-                "description": "Fluffy pancakes served with maple syrup and fresh berries.",
-                "price": 8.99,
-                "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
-              },
-              {
-                "name": "Balsamic Tavuk Şiş",
-                "description": "Toasted sourdough with mashed avocado, cherry tomatoes, and a poached egg.",
-                "price": 7.99,
-                "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
-              },
-              {
-                "name": "Köfte Kase",
-                "description": "Three-egg omelette with your choice of fillings: cheese, ham, mushrooms, spinach.",
-                "price": 9.99,
-                "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
-              }
-            ]
-          },
-          {
-            "menu": "Teas",
-            "items": [
-              {
-                "name": "Yulaf Kase 1",
-                "description": "Fluffy pancakes served with maple syrup and fresh berries.",
-                "price": 8.99,
-                "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
-              },
-              {
-                "name": "Yulaf Kase 2",
-                "description": "Toasted sourdough with mashed avocado, cherry tomatoes, and a poached egg.",
-                "price": 7.99,
-                "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
-              },
-              {
-                "name": "Yulaf Kase 3",
-                "description": "Three-egg omelette with your choice of fillings: cheese, ham, mushrooms, spinach.",
-                "price": 9.99,
-                "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Alcoholic Drinks",
+        "title": "8'den Sonra",
         "deepNote": "After 8PM",
         "subSections": [
           {
-            "menu": "Beer",
+            "menu": "Biralar",
             "items": [
               {
                 "name": "Et Fajita Kase",
@@ -583,7 +436,7 @@
             ]
           },
           {
-            "menu": "Cocktails",
+            "menu": "Kokteyler",
             "items": [
               {
                 "name": "Yulaf Kase 1",
@@ -609,7 +462,7 @@
             ]
           },
           {
-            "menu": "Liquor",
+            "menu": "Votka",
             "items": [
               {
                 "name": "Fit Kahvaltı Tabağı 1",
@@ -628,7 +481,7 @@
             ]
           },
           {
-            "menu": "Whiskey",
+            "menu": "Viski",
             "items": [
               {
                 "name": "Fit Tavuklu Tost",
@@ -655,66 +508,6 @@
                 "name": "Fit Tavuklu Sandiwiç",
                 "description": "Three-egg omelette with your choice of fillings: cheese, ham, mushrooms, spinach.",
                 "price": 9.99,
-                "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
-              }
-            ]
-          },
-          {
-            "menu": "Gin",
-            "items": [
-              {
-                "name": "Somon Füme Salata",
-                "description": "Fluffy pancakes served with maple syrup and fresh berries.",
-                "price": 8.99,
-                "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
-              }
-            ]
-          },
-          {
-            "menu": "Vodka",
-            "items": [
-              {
-                "name": "Somon Füme Salata",
-                "description": "Fluffy pancakes served with maple syrup and fresh berries.",
-                "price": 8.99,
-                "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
-              }
-            ]
-          },
-          {
-            "menu": "Tequila",
-            "items": [
-              {
-                "name": "Somon Füme Salata",
-                "description": "Fluffy pancakes served with maple syrup and fresh berries.",
-                "price": 8.99,
-                "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
-              }
-            ]
-          },
-          {
-            "menu": "Rum",
-            "items": [
-              {
-                "name": "Somon Füme Salata",
-                "description": "Fluffy pancakes served with maple syrup and fresh berries.",
-                "price": 8.99,
-                "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
-              }
-            ]
-          },
-          {
-            "menu": "Wine",
-            "items": [
-              {
-                "name": "Somon Füme Salata",
-                "description": "Fluffy pancakes served with maple syrup and fresh berries.",
-                "price": 8.99,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               }
