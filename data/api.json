@@ -90,21 +90,49 @@
             "items": [
               {
                 "name": "Karışık Tost",
-                "description": "Fluffy pancakes served with maple syrup and fresh berries.",
+                "description": "bazlama ekmek, cheddar peyniri, sucuk, taze kekik ve domates, kaşık patates ile servis edilir (bazlama bread, chedar cheese, turkish pepperoni, fresh thyme and tomatoes, served with spooned patatoes)",
                 "price": 8.99,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink7.jpg"
               },
               {
-                "name": "Kaşar ve Domatesli Tost",
-                "description": "Toasted sourdough with mashed avocado, cherry tomatoes, and a poached egg.",
+                "name": "Beyaz Peynir ve Domatesli Tost",
+                "description": "bazlama ekmek, beyaz peynir ve domates,  karışık patates ile servis edilir (bazlama bread, feta cheese and tomatoes, served with spooned potatoes )",
                 "price": 7.99,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink8.jpg"
               },
               {
+                "name": "Kıbrıs Tostu",
+                "description": "Hellim, kaşar peyniri, bellibit, sucuk, salam, domates, bikla ve mayonez, kaşık patates ile servis edilir (Halloumi, kashar cheese, ……., turkish pepperoni, salami, tomatoes, pikalily and MAyo, served with spooned potatoes)",
+                "price": 9.99,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink9.jpg"
+              },
+              {
                 "name": "Tavuk Sandviç",
-                "description": "Three-egg omelette with your choice of fillings: cheese, ham, mushrooms, spinach.",
+                "description": "sandviç ekmeği, sezar sos, roka, dilim domatesler, ve ızgara tavuk, kaşık patates ile servis edilir (traditional sandwich bread, caesar sauce, rocket, sliced tomatoes and grilled chicken, served with spooned potatoes)",
+                "price": 9.99,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink9.jpg"
+              },
+              {
+                "name": "Steak Sandviç",
+                "description": "Rustik baget ekmeği, akdeniz yeşilliği, domates karamelize soğan, köz biber, çedar peyniri, dana antrikot ve demiglas sos, kaşık patates ile servis edilir (Rustic baguette, green mixed leaves, tomatoes, caramelized onions, grilled peppers, cheddar cheese, beef strips and a demi glaze sauce, served with spooned potatoes)",
+                "price": 9.99,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink9.jpg"
+              },
+              {
+                "name": "Ton Balıklı Sandviç",
+                "description": "Baget ekmeği, pink so, roka, domates, ton balığı, kırmızı soğan ve haşlanmış yumurta, kaşık patates ile servis edilir (White taguette bread, pink sauce, rocket, tomatoes, tuna flakes, red onions and boiled eggs, served with spooned potatoes)",
+                "price": 9.99,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink9.jpg"
+              },
+              {
+                "name": "Club Sandviç Reçete",
+                "description": "domates, marul, turşu, omlet, kaşar peyniri, tavuk ızgara, kaşık patates ile servis edilir (served with spooned potatoes, lettuce, pickles, omlette, cheddar cheese, grilled chicken, and spoon potatoes)",
                 "price": 9.99,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink9.jpg"
