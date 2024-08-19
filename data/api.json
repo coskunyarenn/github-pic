@@ -20,14 +20,14 @@
                 "description": "El yapımı köfte, kıtır esmer ekmek, ızgara domates, ızgara biber, harissa sos ve karışık patates ve demi glass sos(handmade beef meatballs, crispy brown bread, grilled tomato, grilled pepper, served with a harissa dip and seasamed fries)",
                 "price": 7.99,
                 "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink2.jpg"
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/%C4%B1zgara%20kofte.webp"
               },
               {
                 "name": "Somon Izgara",
                 "description": "Taze ıspanak sotesi, yeşil mercimek yahni, salsa verde ve baharatlı fırınlanmış patates (grilled salmon served on a bed of green lentils, Sautéed spinach, salsa verde and balced seasoned potatoes)",
                 "price": 9.99,
                 "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink3.jpg"
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/%C4%B1zgara%20somon.webp"
               },
               {
                 "name": "Steak Fajita",
@@ -48,7 +48,7 @@
                 "description": "tavuk parçaları, renkli biberler, sotelenmiş soğan, çedar peyiri (grilled chicken, mixed peppers, sauteed onions and cheddar cheese served on a sizzling skillet)",
                 "price": 9.99,
                 "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink3.jpg"
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/Chicken%20Fajita.webp"
               },
               {
                 "name": "Combo Fajita",
@@ -74,21 +74,21 @@
                 "description": "180 gr et burger, çedar peyniri, göbek marul, domates, turşu ve 1938 özel sos (180 gr beef burger, cheddar cheese, iceberg, tomato, gherkin and 1938 special sauce)",
                 "price": 7.99,
                 "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink5.jpg"
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/Cheese%20burger.webp"
               },
               {
                 "name": "1938 Arkadaş Tepsi",
                 "description": "2 veya 4 adet 180 gr et burger, soğan halkası, baharatlı karışık patatesi ve özel 138 sos ile servis edilir (çedar peyniri, göbek marul, domates, karamelize soğan ve turşu)(2 or 4 180 gr beef burger served with onion rings, seasoned fries and 1938 special sauce (cheddar cheese, iceberg, caramalised onions, tomato and gherkins))",
                 "price": 9.99,
                 "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink6.jpg"
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/Arkada%C5%9F%20tepsisi.webp"
               },
               {
                 "name": "Chicken Burger",
                 "description": "Panelenmiş tavuk göğsü, sotelenmiş kırmızı lahana, çedar peyniri, konişon turşu ve 1938 özel sos (breaded chicken burger, sauteed red cabbage, cheddar cheese, gherkins and 1938 special sauce)",
                 "price": 9.99,
                 "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/Chicken%20Burger.webp"
               }
             ]
           },
@@ -121,21 +121,21 @@
                 "description": "sandviç ekmeği, sezar sos, roka, dilim domatesler, ve ızgara tavuk, kaşık patates ile servis edilir (traditional sandwich bread, caesar sauce, rocket, sliced tomatoes and grilled chicken, served with spooned potatoes)",
                 "price": 9.99,
                 "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink9.jpg"
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/Tavuk%20sandwich.webp"
               },
               {
                 "name": "Steak Sandviç",
                 "description": "Rustik baget ekmeği, akdeniz yeşilliği, domates karamelize soğan, köz biber, çedar peyniri, dana antrikot ve demiglas sos, kaşık patates ile servis edilir (Rustic baguette, green mixed leaves, tomatoes, caramelized onions, grilled peppers, cheddar cheese, beef strips and a demi glaze sauce, served with spooned potatoes)",
                 "price": 9.99,
                 "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink9.jpg"
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/steak%20sandwich.webp"
               },
               {
                 "name": "Ton Balıklı Sandviç",
                 "description": "Baget ekmeği, pink so, roka, domates, ton balığı, kırmızı soğan ve haşlanmış yumurta, kaşık patates ile servis edilir (White taguette bread, pink sauce, rocket, tomatoes, tuna flakes, red onions and boiled eggs, served with spooned potatoes)",
                 "price": 9.99,
                 "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink9.jpg"
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/Tuna%20Sandwich.webp"
               },
               {
                 "name": "Club Sandviç Reçete",
@@ -154,42 +154,42 @@
                 "description": "İtalyan domates soslu penne (Penne with Italian tomato sauce)",
                 "price": 8.99,
                 "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink10.jpg"
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/Penne%20Arrabiata.webp"
               },
               {
                 "name": "Spaghetti Bolognaise",
                 "description": "Bolenez soslu Spagetti (Spaghetti with Bolognese sauce)",
                 "price": 7.99,
                 "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/Spaghetti%20bolognaise.webp"
               },
               {
                 "name": "Fettuccine Al Fredo",
                 "description": "Tavuk, mantar, beyaz şarap ve hafif krema soslu Papardelle (Papardelle with chicken, mushrooms, white wine and light cream sauce)",
                 "price": 9.99,
                 "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/Taglatellie%20al%20fredo.webp"
               },
               {
                 "name": "Sebzeli Noodle",
                 "description": "renkli biber, mantar, soğan, oyster sos, susam yağı ve soya filizi (mixed peppers, mushrooms, onions, oyster sauce, sesame oil, soy sauce and beansprouts)",
                 "price": 9.99,
                 "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/vegetable%20noodle.webp"
               },
               {
                 "name": "Tavuklu Noodles",
                 "description": "Tavuk göğüs parçaları, renkli biberler, mantar, soğan, oyster sos, susam yağı, soya sosu ve soya filizi (Sliced grilled chicken, mixed peppers, mushrooms, onions, oyster sauce, sesame oil, soy sauce and beansprouts)",
                 "price": 9.99,
                 "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/chicken%20noodle.webp"
               },
               {
                 "name": "Et Noodles",
                 "description": "Dana bonfile parçaları, renkli biberler, mantar, soğan, oyster sos, susam yağı, soya sosu ve soya filizi (Sliced beef, mixed peppers, mushrooms, onions, oyster sauce, sesame oil, soy sauce and beansprouts)",
                 "price": 9.99,
                 "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/Beef%20noodle.webp"
               }
             ]
           },
@@ -201,7 +201,7 @@
                 "description": "(Tavuk parçaları, renkli biberler, soğan, marul, kaşar peyniri, kaşık patatesler ve naneli yoğurt) (Sliced chicken, mixed peppers, onions, mushrooms, cheddar cheese with a side of mint yogurt)",
                 "price": 8.99,
                 "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/tavuk%20wrap.webp"
               },
               {
                 "name": "Vegeteryan Wrap",
@@ -222,14 +222,14 @@
                 "description": "sandviç ekmeği, sezar sos, roka, dilim domatesler ve ızgara tavuk (traditional sandwich bread, ceaser sauce, rocket, sliced tomatoes and grilled chicken)",
                 "price": 9.99,
                 "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/chicken%20sandwich.webp"
               },
               {
                 "name": "Steak Tacos",
                 "description": "Konfit pişmiş dana eti, jalapeno, meksika fasulyesi, çedar peynirli (Tortilla taco, sliced steak, sweetcorn, jalapenos, red kidney beans and cheddar cheese)",
                 "price": 9.99,
                 "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/Beef%20Tacos.webp"
               }
             ]
           },
@@ -241,28 +241,28 @@
                 "description": "domates, dört peynir karışımı ve fesleğen (tomatos, four cheese blend and thyme)",
                 "price": 8.99,
                 "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/margarita%20pizza.webp"
               },
               {
                 "name": "Pepperoni",
                 "description": "double Pepperoni, ve double mozarella peyniri (double Peperonni and double Mozarella cheese)",
                 "price": 8.99,
                 "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/pepperoni%20pizza.webp"
               },
               {
                 "name": "1938 Pizza",
                 "description": "salam, mantar, sucuk, mısır, zeytin, sosis, yeşil biber ve Mozarella peyniri (salami, mashroom, turkish pepperoni, olives, sausage, green peppers and Mozarella cheese)",
                 "price": 8.99,
                 "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/1938%20pizza.webp"
               },
               {
                 "name": "Vegeterian",
                 "description": "karışık sebzeler ve Mozarella peyniri (mixed veges and Mozarella cheese)",
                 "price": 8.99,
                 "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/vegeterian%20pizza.webp"
               }
             ]
           },
@@ -335,7 +335,7 @@
                 "description": "Pennelenmiş çıtır tavuk parçaları, salsa verde, meksikan biberi, sweet chilli sos ve baharatlı patates kızartması ile servis edilir (bread crispy chicken pieces served with salsa verde, mexican chilli peppers, sweet chilli clipping sauce and fries)",
                 "price": 9.99,
                 "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/%C3%A7%C4%B1t%C4%B1r%20asya%20tavuk.webp"
               },
               {
                 "name": "Classic Nachos",
@@ -349,7 +349,7 @@
                 "description": "Marine edilmiş et parçaları, çedar peyniri, meksika fasulyesi, jalepeno biberi, mısır, guacamole ve salsa (marinated beef strips, cheddar cheese, red kidney beans, jalepenos, sweetcorn, guacamole and salsa )",
                 "price": 9.99,
                 "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/et%20nachos.webp"
               },
               {
                 "name": "Nachos Chicken",
@@ -368,7 +368,7 @@
                 "description": "Izgara tavuk göğüsü (grilled chicken breast)",
                 "price": 8.99,
                 "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/tavuklu%20sezar%20salata.webp"
               },
               {
                 "name": "Cafe 1938 Spor Salatası",
@@ -389,14 +389,14 @@
                 "description": "",
                 "price": 8.99,
                 "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/grilled%20hellim%20salad.webp"
               },
               {
                 "name": "Ton Balıklı Salata",
                 "description": "taze baharatlı fırınlanmış patates, haşlanmış yumurta, roka, göbek marul, cherry domates, zeytinyağı ve limon suyu (fresh oven baked potates, boiled egg, rocket, iceberg, lettuce, cherry tomatoes, served with and olive lemon dressing)",
                 "price": 8.99,
                 "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/Tuna%20salad.webp"
               }
             ]
           }
