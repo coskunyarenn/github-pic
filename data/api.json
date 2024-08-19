@@ -773,16 +773,16 @@
             "menu": "Votka",
             "items": [
               {
-                "name": "Fit Kahvaltı Tabağı 1",
-                "description": "Fluffy pancakes served with maple syrup and fresh berries.",
-                "price": 8.99,
+                "name": "Finlandia ",
+                "description": "50ml",
+                "price": 240,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Fit Kahvaltı Tabağı 1",
-                "description": "Toasted sourdough with mashed avocado, cherry tomatoes, and a poached egg.",
-                "price": 7.99,
+                "name": "Absolut ",
+                "description": "50ml",
+                "price": 240,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               }
