@@ -364,8 +364,36 @@
             "menu": "Salatalar",
             "items": [
               {
-                "name": "Steak Wraps",
-                "description": "Fluffy pancakes served with maple syrup and fresh berries.",
+                "name": "Klasik Sezar Salatası",
+                "description": "Izgara tavuk göğüsü (grilled chicken breast)",
+                "price": 8.99,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              },
+              {
+                "name": "Cafe 1938 Spor Salatası",
+                "description": "Cafe 1938 Spor Salatası Mizuna, (baby ıspanak), haşlanmış kırmızı pancar, keçi peyniri, dolmalık taze fıstık, taze soğan, balzamik sirke ve ballı kırmızı pancar sosu (Mizuna leaves (baby spinach), boiled red beetroot, goat cheese, peanuts, onion, balsamic vinegar and a honey beetroot dressing)",
+                "price": 8.99,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              },
+              {
+                "name": "Akdeniz Salatası",
+                "description": "Akdeniz yeşillikleri, mısır, zeytin, havuç, salatalık, cherry domates, limon sosu ve zeytin yağı (Mixed green leaves, sweetcorn, olives, carrot, cucumber, cherry tomatoes, lemon and olive oil dressing)",
+                "price": 8.99,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              },
+              {
+                "name": "Izgara Hellim",
+                "description": "",
+                "price": 8.99,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              },
+              {
+                "name": "Ton Balıklı Salata",
+                "description": "taze baharatlı fırınlanmış patates, haşlanmış yumurta, roka, göbek marul, cherry domates, zeytinyağı ve limon suyu (fresh oven baked potates, boiled egg, rocket, iceberg, lettuce, cherry tomatoes, served with and olive lemon dressing)",
                 "price": 8.99,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
