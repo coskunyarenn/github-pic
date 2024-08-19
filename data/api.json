@@ -235,8 +235,50 @@
             "menu": "Kahvaltılar",
             "items": [
               {
-                "name": "Steak Wraps",
-                "description": "Fluffy pancakes served with maple syrup and fresh berries.",
+                "name": "Kendi omletini kendin yap",
+                "description": " iki adet göz yumurta / two eggs sunny side up İlaveler / Extras - ( peynir/cheese , sucuk/turkish pepperoni, domates/tomatoes, mantar/mushrooms, biber/peppers)",
+                "price": 8.99,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              },
+              {
+                "name": "Kendi omletini kendin yarat",
+                "description": "İlaveler / Extras - ( peynir/cheese , sucuk/turkish pepperoni, domates/tomatoes, mantar/mushrooms, biber/peppers, soğan/onions, acı biber/chilli peppers)",
+                "price": 8.99,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              },
+              {
+                "name": "Karışık Omlette",
+                "description": "(2 yumurtalı omlett, renkli biberler, kaşar peyniri, domates, mantar, salami) (2 eggs omlette, mixed peppers, kashar cheese, tomatoes, mushrooms,salami)",
+                "price": 8.99,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              },
+              {
+                "name": "Menemen (acılı/acısız)",
+                "description": "İlaveler / Extras - ( peynir/cheese , sucuk/turkish pepperoni)",
+                "price": 8.99,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              },
+              {
+                "name": "Fit sporcu omleti",
+                "description": "(4 yumurta beyazı, 1  yumurta sarısı, nor peyniri, limon soslu roka, keten tohumu,domates) (4 eggs whites, 1 egg yolk, cyprot nor cheese, rocket, lemon juice,Konkas ,tomatoes)",
+                "price": 8.99,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              },
+              {
+                "name": "Kahvaltı tabağı",
+                "description": "(Salatalık, domates, zeytin, peynir çeşitleri, bal, tereyağı, reçel,ızgara hellim, 2 sigara böreği, 1 yumurta (haşlanmış, kızarmış,çırpılmış) ve ekmek sepeti) (Cucmber, tomato, olives, a mix of cheese, honey, butter, jam, grilled halloumi, 2 cigerette rolls, 1 egg of choice(boiled, fried or scrambled) and a bread basket)",
+                "price": 8.99,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              },
+              {
+                "name": "Granola kase",
+                "description": "(Granola, soya sütü, karışık mini dağ meyveleri, hindistan cevizi, çilek, tarçın ve yeşil elma) (Grano, soy milk, mixed black forest fruits, coconut, strawberry, cinnamon and apple)",
                 "price": 8.99,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
