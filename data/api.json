@@ -454,30 +454,114 @@
             "menu": "Kahveler",
             "items": [
               {
-                "name": "Ice Latte",
-                "description": "Fluffy pancakes served with maple syrup and fresh berries.",
-                "price": 8.99,
+                "name": "Latte",
+                "description": "",
+                "price": 130,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
                 "name": "Flavoures Latte",
-                "description": "Toasted sourdough with mashed avocado, cherry tomatoes, and a poached egg.",
-                "price": 7.99,
+                "description": "",
+                "price": 150,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Ice Americano",
-                "description": "Three-egg omelette with your choice of fillings: cheese, ham, mushrooms, spinach.",
-                "price": 9.99,
+                "name": "Americano",
+                "description": "",
+                "price": 120,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Ice Chai Latte",
-                "description": "Three-egg omelette with your choice of fillings: cheese, ham, mushrooms, spinach.",
-                "price": 9.99,
+                "name": "Chai Latte",
+                "description": "",
+                "price": 140,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              },
+              {
+                "name": "Mocha",
+                "description": "",
+                "price": 150,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              },
+              {
+                "name": "White Mocha",
+                "description": "",
+                "price": 150,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              },
+              {
+                "name": "Espresso",
+                "description": "",
+                "price": 80,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              },
+              {
+                "name": "Double Espresso ",
+                "description": "",
+                "price": 100,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              },
+              {
+                "name": "Espresso Maccihato",
+                "description": "",
+                "price": 110,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              },
+              {
+                "name": "Filter Coffee",
+                "description": "",
+                "price": 120,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              },
+              {
+                "name": "Cappuccino",
+                "description": "",
+                "price": 130,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              },
+              {
+                "name": "Latte Maccihato",
+                "description": "",
+                "price": 130,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              },
+              {
+                "name": "Flat White",
+                "description": "",
+                "price": 130,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              },
+              {
+                "name": "Chocolate",
+                "description": "",
+                "price": 140,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              },
+              {
+                "name": "White Chocolate",
+                "description": "",
+                "price": 140,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              },
+              {
+                "name": "Turkish Coffee",
+                "description": "",
+                "price": 50,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               }
