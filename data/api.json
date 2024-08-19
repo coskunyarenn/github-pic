@@ -351,72 +351,100 @@
             "menu": "Soft içecekler",
             "items": [
               {
-                "name": "Britvic Tonic",
-                "description": "Fluffy pancakes served with maple syrup and fresh berries.",
-                "price": 8.99,
+                "name": "Brit Tonic",
+                "description": "",
+                "price": 55,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
                 "name": "Fanta",
-                "description": "Toasted sourdough with mashed avocado, cherry tomatoes, and a poached egg.",
-                "price": 7.99,
+                "description": "",
+                "price": 60,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
                 "name": "Coca Cola",
-                "description": "Three-egg omelette with your choice of fillings: cheese, ham, mushrooms, spinach.",
-                "price": 9.99,
+                "description": "",
+                "price": 60,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
                 "name": "Coca Cola Zero",
-                "description": "Three-egg omelette with your choice of fillings: cheese, ham, mushrooms, spinach.",
-                "price": 9.99,
+                "description": "",
+                "price": 60,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
                 "name": "Sprite",
-                "description": "Three-egg omelette with your choice of fillings: cheese, ham, mushrooms, spinach.",
-                "price": 9.99,
+                "description": "",
+                "price": 60,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
                 "name": "Kutu Meyve Suyu (20cl)",
-                "description": "Three-egg omelette with your choice of fillings: cheese, ham, mushrooms, spinach.",
-                "price": 9.99,
+                "description": "",
+                "price": 25,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
                 "name": "Karışık Cappy",
-                "description": "Three-egg omelette with your choice of fillings: cheese, ham, mushrooms, spinach.",
-                "price": 9.99,
+                "description": "",
+                "price": 60,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
                 "name": "Reb Bull",
-                "description": "Three-egg omelette with your choice of fillings: cheese, ham, mushrooms, spinach.",
-                "price": 9.99,
+                "description": "",
+                "price": 80,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
                 "name": "Soda",
-                "description": "Three-egg omelette with your choice of fillings: cheese, ham, mushrooms, spinach.",
-                "price": 9.99,
+                "description": "",
+                "price": 50,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Soğuk Çay",
-                "description": "Three-egg omelette with your choice of fillings: cheese, ham, mushrooms, spinach.",
-                "price": 9.99,
+                "name": "Soğuk Çay (Şeftali/Limon)",
+                "description": "",
+                "price": 60,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              },
+              {
+                "name": "Küçük Su",
+                "description": "",
+                "price": 35,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              },
+              {
+                "name": "Büyük Su",
+                "description": "",
+                "price": 35,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              },
+              {
+                "name": "Limonata",
+                "description": "",
+                "price": 70,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              },
+              {
+                "name": "Limonlu Soda",
+                "description": "",
+                "price": 80,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               }
