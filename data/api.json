@@ -792,30 +792,23 @@
             "menu": "Viski",
             "items": [
               {
-                "name": "Fit Tavuklu Tost",
-                "description": "Fluffy pancakes served with maple syrup and fresh berries.",
-                "price": 8.99,
+                "name": "Chivas ",
+                "description": "50 ml",
+                "price": 250,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Fit Çift Füme Tost",
-                "description": "Toasted sourdough with mashed avocado, cherry tomatoes, and a poached egg.",
-                "price": 7.99,
+                "name": "Black Labe",
+                "description": "50 ml",
+                "price": 250,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Fit Steak Sandiwiç",
-                "description": "Three-egg omelette with your choice of fillings: cheese, ham, mushrooms, spinach.",
-                "price": 9.99,
-                "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
-              },
-              {
-                "name": "Fit Tavuklu Sandiwiç",
-                "description": "Three-egg omelette with your choice of fillings: cheese, ham, mushrooms, spinach.",
-                "price": 9.99,
+                "name": "Jack Daniels",
+                "description": "50 ml",
+                "price": 220,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               }
