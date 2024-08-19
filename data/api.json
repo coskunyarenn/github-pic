@@ -202,8 +202,29 @@
             "menu": "Pizza",
             "items": [
               {
-                "name": "Steak Wraps",
-                "description": "Fluffy pancakes served with maple syrup and fresh berries.",
+                "name": "Margarita",
+                "description": "domates, dört peynir karışımı ve fesleğen (tomatos, four cheese blend and thyme)",
+                "price": 8.99,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              },
+              {
+                "name": "Pepperoni",
+                "description": "double Pepperoni, ve double mozarella peyniri (double Peperonni and double Mozarella cheese)",
+                "price": 8.99,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              },
+              {
+                "name": "1938 Pizza",
+                "description": "salam, mantar, sucuk, mısır, zeytin, sosis, yeşil biber ve Mozarella peyniri (salami, mashroom, turkish pepperoni, olives, sausage, green peppers and Mozarella cheese)",
+                "price": 8.99,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              },
+              {
+                "name": "Vegeterian",
+                "description": "karışık sebzeler ve Mozarella peyniri (mixed veges and Mozarella cheese)",
                 "price": 8.99,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
