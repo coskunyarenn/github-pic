@@ -64,24 +64,31 @@
             "items": [
               {
                 "name": "Hamburger",
-                "description": "Fluffy pancakes served with maple syrup and fresh berries.",
+                "description": "180 gr et burger, göbek marul, domates, turşu, ve 1938 özel sos (180 gr beef burger, iceberg, tomato, gherkin and 1938 special sauce)",
                 "price": 8.99,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink4.jpg"
               },
               {
                 "name": "Cheese Burger",
-                "description": "Toasted sourdough with mashed avocado, cherry tomatoes, and a poached egg.",
+                "description": "180 gr et burger, çedar peyniri, göbek marul, domates, turşu ve 1938 özel sos (180 gr beef burger, cheddar cheese, iceberg, tomato, gherkin and 1938 special sauce)",
                 "price": 7.99,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink5.jpg"
               },
               {
-                "name": "1938 Double Burger",
-                "description": "Three-egg omelette with your choice of fillings: cheese, ham, mushrooms, spinach.",
+                "name": "1938 Arkadaş Tepsi",
+                "description": "2 veya 4 adet 180 gr et burger, soğan halkası, baharatlı karışık patatesi ve özel 138 sos ile servis edilir (çedar peyniri, göbek marul, domates, karamelize soğan ve turşu)(2 or 4 180 gr beef burger served with onion rings, seasoned fries and 1938 special sauce (cheddar cheese, iceberg, caramalised onions, tomato and gherkins))",
                 "price": 9.99,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink6.jpg"
+              },
+              {
+                "name": "Chicken Burger",
+                "description": "Panelenmiş tavuk göğsü, sotelenmiş kırmızı lahana, çedar peyniri, konişon turşu ve 1938 özel sos (breaded chicken burger, sauteed red cabbage, cheddar cheese, gherkins and 1938 special sauce)",
+                "price": 9.99,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               }
             ]
           },
