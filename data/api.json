@@ -9,51 +9,51 @@
             "menu": "Main Meals/Ana yemekler",
             "items": [
               {
-                "name": "Tavuk Izgara",
-                "description": "Izgara tavuk, patates püresi, haşlanmış sebzeler ve yoğurt (grilled chicken breast, mashed potatoe, boiled mixed veg and natural greek yogurt)",
-                "price": 8.99,
+                "name": "Tavuk Izgara/ Grilled chicken",
+                "description": "(Izgara tavuk, patates püresi, haşlanmış sebzeler ve yoğurt ) (Grilled chicken breast , mashed potatoe, boiled mixed veg and natural greek yogurt)",
+                "price": 350,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Köfte Izgara",
-                "description": "El yapımı köfte, kıtır esmer ekmek, ızgara domates, ızgara biber, harissa sos ve karışık patates ve demi glass sos(handmade beef meatballs, crispy brown bread, grilled tomato, grilled pepper, served with a harissa dip and seasamed fries)",
-                "price": 7.99,
+                "name": "Köfte Izgara/Grilled meatballs",
+                "description": "(El yapımı kofte, kıtır esmer ekmek, ızgara domates,ızgara biber,harissa sos ve kaşık patates kızartması (handmade beef meatballs, crispy brown bread, grilled tomato, grilled pepper, served with a harissa dip and seasoned fries) ",
+                "price": 380,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/%C4%B1zgara%20kofte.webp"
               },
               {
-                "name": "Somon Izgara",
-                "description": "Taze ıspanak sotesi, yeşil mercimek yahni, salsa verde ve baharatlı fırınlanmış patates (grilled salmon served on a bed of green lentils, Sautéed spinach, salsa verde and balced seasoned potatoes)",
-                "price": 9.99,
+                "name": "Antrikot steak",
+                "description": "(ızgara et, (fırın patates veya püre), haşlanmış sebzeler ve secediğiniz sos(Mantar sos veya dömiglas) ile birlikte) (grilled steak served with a choice of mash potatoe or roasted potatoes , boiled veg and a sauce of your choice (mushroom sauce or demiglaze)",
+                "price": 540,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/%C4%B1zgara%20somon.webp"
+              },
+              {
+                "name": "Somon Izgara/Grilled salmon",
+                "description": "(Taze ıspanak sotesi, yeşil mercimek yahni, salsa verde ve bahartlı fırınlanmış patates)  (Grilled salmon served on a bed of green lentils, Sauteed spinach, salsa verde and baked seasoned potatoes) ",
+                "price": 590,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/%C4%B1zgara%20somon.webp"
               },
               {
                 "name": "Steak Fajita",
-                "description": "TAntrikot parçaları, renkli biberler, sotelenmiş soğan, çedar peyniri (sliced antrikot steak, mixed peppers, sauteed onions and cheddar cheese served on a sizzling skillet)",
-                "price": 9.99,
-                "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink3.jpg"
-              },
-              {
-                "name": "Antrikot Steak",
-                "description": "ızgara et, (fırın patates veya püre), haşlanmış sebzeler ve seçtiğiniz sos (mantar sos veya demi glass sos) ile birlikte (grilled steak served with a choice of mash potato or roasted potatoes, boiled veg and a sauce of your choke (mushroom sauce of demiglaze))",
-                "price": 9.99,
+                "description": "(Antrikot parçaları, renkli biberler, sotelenmis soğan, cedar peyniri) (Sliced antricot steak, mixed peppers, sauteed onions and cheddar cheese served on a sizzling skillet) ",
+                "price": 420,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink3.jpg"
               },
               {
                 "name": "Chicken Fajita",
-                "description": "tavuk parçaları, renkli biberler, sotelenmiş soğan, çedar peyiri (grilled chicken, mixed peppers, sauteed onions and cheddar cheese served on a sizzling skillet)",
-                "price": 9.99,
+                "description": "(Tavuk parçaları, renkli biberler, sotelenmis soğan, cedar peyniri) (Grilled chicken, mixed peppers, sauteed onions and cheddar cheese served on a sizzling skillet) ",
+                "price": 390,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/Chicken%20Fajita.webp"
               },
               {
                 "name": "Combo Fajita",
-                "description": "Tavuk ve antrikot parçaları, renkli biberler, sotelenmiş soğan, çedar peyniri(A combo mix of sliced antricot steak and grilled chicken, mixed peppers, sauteed onions and cheddar cheese served on a sizzling skillet)",
-                "price": 9.99,
+                "description": "(Tavuk ve antrikot parçaları, renkli biberler, sotelenmis soğan, cedar peyniri) (A combo mix of sliced antricot steak and grilled chicken, mixed peppers, sauteed onions and cheddar cheese served on a sizzling skillet) )",
+                "price": 460,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink3.jpg"
               }
