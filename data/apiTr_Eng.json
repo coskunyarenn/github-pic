@@ -986,35 +986,50 @@
             "menu": "Milkshakes",
             "items": [
               {
-                "name": "Vanilla",
+                "name": {
+                  "tr": " Vanilla",
+                  "eng": "Vanilla "
+                },
                 "description": "",
                 "price": 100,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Chocolate",
+                "name": {
+                  "tr": "Chocolate ",
+                  "eng": "Chocolate "
+                },
                 "description": "",
                 "price": 100,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Strawberry",
+                "name": {
+                  "tr": " Strawberry",
+                  "eng": "Strawberry "
+                },
                 "description": "",
                 "price": 100,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Banana",
+                "name": {
+                  "tr": "Banana ",
+                  "eng": "Banana "
+                },
                 "description": "",
                 "price": 100,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Caramel",
+                "name": {
+                  "tr": "Caramel ",
+                  "eng": "Caramel "
+                },
                 "description": "",
                 "price": 100,
                 "availability": true,
@@ -1026,35 +1041,50 @@
             "menu": "Smoothies",
             "items": [
               {
-                "name": "Melon/Watermelon",
+                "name": {
+                  "tr": "Melon/Watermelon ",
+                  "eng": " Melon/Watermelon"
+                },
                 "description": "",
                 "price": 120,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Strawberry",
+                "name": {
+                  "tr": " Strawberry",
+                  "eng": " Strawberry"
+                },
                 "description": "",
                 "price": 120,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Banana",
+                "name": {
+                  "tr": " Banana",
+                  "eng": "Banana "
+                },
                 "description": "",
                 "price": 120,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Green Apple",
+                "name": {
+                  "tr": " Green Apple",
+                  "eng": " Green Apple"
+                },
                 "description": "",
                 "price": 120,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Mango",
+                "name": {
+                  "tr": " Mango",
+                  "eng": "Mango "
+                },
                 "description": "",
                 "price": 120,
                 "availability": true,
