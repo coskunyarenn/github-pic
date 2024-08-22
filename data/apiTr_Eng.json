@@ -19,7 +19,10 @@
                   "tr": "Tavuk Izgara",
                   "eng": "Grilled chicken"
                 },
-                "description": "(Izgara tavuk, patates püresi, haşlanmış sebzeler ve yoğurt ) (Grilled chicken breast , mashed potatoe, boiled mixed veg and natural greek yogurt)",
+                "description": {
+                  "tr": " Izgara tavuk, patates püresi, haşlanmış sebzeler ve yoğurt",
+                  "eng": "Grilled chicken breast , mashed potatoe, boiled mixed veg and natural greek yogurt "
+                },
                 "price": 350,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -29,7 +32,10 @@
                   "tr": "Köfte Izgara",
                   "eng": "Grilled meatballs"
                 },
-                "description": "(El yapımı kofte, kıtır esmer ekmek, ızgara domates,ızgara biber,harissa sos ve kaşık patates kızartması (handmade beef meatballs, crispy brown bread, grilled tomato, grilled pepper, served with a harissa dip and seasoned fries) ",
+                "description": {
+                  "tr": "El yapımı kofte, kıtır esmer ekmek, ızgara domates,ızgara biber,harissa sos ve kaşık patates kızartması  ",
+                  "eng": " handmade beef meatballs, crispy brown bread, grilled tomato, grilled pepper, served with a harissa dip and seasoned fries"
+                },
                 "price": 380,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/%C4%B1zgara%20kofte.webp"
@@ -39,7 +45,10 @@
                   "tr": "Antrikot Et",
                   "eng": "Antrikot steak"
                 },
-                "description": "(ızgara et, (fırın patates veya püre), haşlanmış sebzeler ve secediğiniz sos(Mantar sos veya dömiglas) ile birlikte) (grilled steak served with a choice of mash potatoe or roasted potatoes , boiled veg and a sauce of your choice (mushroom sauce or demiglaze)",
+                "description": {
+                  "tr": "ızgara et, (fırın patates veya püre), haşlanmış sebzeler ve secediğiniz sos(Mantar sos veya dömiglas) ile birlikte ",
+                  "eng": "grilled steak served with a choice of mash potatoe or roasted potatoes , boiled veg and a sauce of your choice (mushroom sauce or demiglaze "
+                },
                 "price": 540,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/%C4%B1zgara%20somon.webp"
@@ -49,7 +58,10 @@
                   "tr": "Somon Izgara",
                   "eng": "Grilled salmon"
                 },
-                "description": "(Taze ıspanak sotesi, yeşil mercimek yahni, salsa verde ve bahartlı fırınlanmış patates)  (Grilled salmon served on a bed of green lentils, Sauteed spinach, salsa verde and baked seasoned potatoes) ",
+                "description": {
+                  "tr": "Taze ıspanak sotesi, yeşil mercimek yahni, salsa verde ve bahartlı fırınlanmış patates ",
+                  "eng": "Grilled salmon served on a bed of green lentils, Sauteed spinach, salsa verde and baked seasoned potatoes "
+                },
                 "price": 590,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/%C4%B1zgara%20somon.webp"
@@ -59,7 +71,10 @@
                   "tr": "Et Fajita",
                   "eng": "Steak Fajita"
                 },
-                "description": "(Antrikot parçaları, renkli biberler, sotelenmis soğan, cedar peyniri) (Sliced antricot steak, mixed peppers, sauteed onions and cheddar cheese served on a sizzling skillet) ",
+                "description": {
+                  "tr": "Antrikot parçaları, renkli biberler, sotelenmis soğan, cedar peyniri ",
+                  "eng": "Sliced antricot steak, mixed peppers, sauteed onions and cheddar cheese served on a sizzling skillet "
+                },
                 "price": 420,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink3.jpg"
@@ -69,7 +84,10 @@
                   "tr": "Tavuk Fajita",
                   "eng": "Chicken Fajita"
                 },
-                "description": "(Tavuk parçaları, renkli biberler, sotelenmis soğan, cedar peyniri) (Grilled chicken, mixed peppers, sauteed onions and cheddar cheese served on a sizzling skillet) ",
+                "description": {
+                  "tr": "Tavuk parçaları, renkli biberler, sotelenmis soğan, cedar peyniri ",
+                  "eng": "Grilled chicken, mixed peppers, sauteed onions and cheddar cheese served on a sizzling skillet "
+                },
                 "price": 390,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/Chicken%20Fajita.webp"
@@ -79,7 +97,10 @@
                   "tr": "Combo Fajita",
                   "eng": "Combo Fajita"
                 },
-                "description": "(Tavuk ve antrikot parçaları, renkli biberler, sotelenmis soğan, cedar peyniri) (A combo mix of sliced antricot steak and grilled chicken, mixed peppers, sauteed onions and cheddar cheese served on a sizzling skillet) )",
+                "description": {
+                  "tr": "Tavuk ve antrikot parçaları, renkli biberler, sotelenmis soğan, cedar peyniri ",
+                  "eng": "A combo mix of sliced antricot steak and grilled chicken, mixed peppers, sauteed onions and cheddar cheese served on a sizzling skillet "
+                },
                 "price": 460,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink3.jpg"
@@ -97,7 +118,10 @@
                   "tr": "Hamburger",
                   "eng": "Hamburger"
                 },
-                "description": "(180g et burger, iceberg, domates, turşu ve 1938 özel sos) (180g beef burger, iceberg, tomato, gherkin and 1938 special sauce)",
+                "description": {
+                  "tr": "180g et burger, iceberg, domates, turşu ve 1938 özel sos ",
+                  "eng": "180g beef burger, iceberg, tomato, gherkin and 1938 special sauce "
+                },
                 "price": 380,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink4.jpg"
@@ -107,7 +131,10 @@
                   "tr": "Cheese Burger",
                   "eng": "Cheese Burger"
                 },
-                "description": "(180g et burger, chedar peyniri, iceberg, domates, turşu ve 1938 özel sos) (180g beef burger, cheddar  cheese, iceberg, tomato, gherkin and 1938 special sauce)",
+                "description": {
+                  "tr": "180g et burger, chedar peyniri, iceberg, domates, turşu ve 1938 özel sos ",
+                  "eng": "180g beef burger, cheddar  cheese, iceberg, tomato, gherkin and 1938 special sauce "
+                },
                 "price": 390,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/Cheese%20burger.webp"
@@ -117,7 +144,10 @@
                   "tr": "1938 paylaşım burger tepsisi ",
                   "eng": "1938 Friendly Sharing Burger Tray"
                 },
-                "description": "2 veya 4 tane 180g et burger, soğan halkası, baharatlı kaşık patatesi ve özel 1938 sos ile servis edilir  (chedar peyniri, iceberg, karamalize sogan,domates, karamelize soğan ve turşu) (2 or 4 180g beef burgers served with onion rings, seasoned fries and 1938 special sauce. (cheddar  cheese, iceberg, caramalised onions, tomato and gherkins ) ",
+                "description": {
+                  "tr": "2 veya 4 tane 180g et burger, soğan halkası, baharatlı kaşık patatesi ve özel 1938 sos ile servis edilir  (chedar peyniri, iceberg, karamalize sogan,domates, karamelize soğan ve turşu) ",
+                  "eng": "2 or 4 180g beef burgers served with onion rings, seasoned fries and 1938 special sauce. (cheddar  cheese, iceberg, caramalised onions, tomato and gherkins ) "
+                },
                 "price": "2 kişilik/for 2 people – 650tl  4 kişilik/ for 4 people - 1300tl",
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/Arkada%C5%9F%20tepsisi.webp"
@@ -127,7 +157,10 @@
                   "tr": "Tavuk Burger",
                   "eng": "Chicken Burger"
                 },
-                "description": "(Panelenmiş tavuk goğusu, sotelenmiş kırmızı lahana, chedar peyniri, kornişon turşu ve 1938 özel sos)  (Breaded chicken burger, sauteed red cabbage, cheddar cheese,gherkins and 1938 special sos)",
+                "description": {
+                  "tr": "Panelenmiş tavuk goğusu, sotelenmiş kırmızı lahana, chedar peyniri, kornişon turşu ve 1938 özel sos ",
+                  "eng": "Breaded chicken burger, sauteed red cabbage, cheddar cheese,gherkins and 1938 special sos "
+                },
                 "price": 340,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/Chicken%20Burger.webp"
@@ -145,7 +178,10 @@
                   "tr": "Karışık Tost",
                   "eng": "Karışık Tost"
                 },
-                "description": "(Bazlama ekmek, chedar peyniri,  sucuk, taze kekik ve domates)) Bazlama bread, chedder cheese, turkish sucuk, fresh tyhme and tomatoes)",
+                "description": {
+                  "tr": "Bazlama ekmek, chedar peyniri,  sucuk, taze kekik ve domates ",
+                  "eng": "Bazlama bread, chedder cheese, turkish sucuk, fresh tyhme and tomatoes "
+                },
                 "price": 220,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink7.jpg"
@@ -155,7 +191,10 @@
                   "tr": "Beyaz peynir ve Domatesli Tost",
                   "eng": "Beyaz peynir ve Domatesli Tost"
                 },
-                "description": "(Bazlama ekmek, beyaz peynir ve domates) Bazlama bread, feta cheese and tomatoes)",
+                "description": {
+                  "tr": "Bazlama ekmek, beyaz peynir ve domates ",
+                  "eng": " Bazlama bread, feta cheese and tomatoes"
+                },
                 "price": 230,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink8.jpg"
@@ -165,7 +204,10 @@
                   "tr": "Kıbrıs Tostu",
                   "eng": "Cyprus Toasted Sandwich"
                 },
-                "description": "(Hellim, kaşar peyniri, bollibif, sucuk, salam, domates,bikla ve mayonez ) (Halloumi, kashar cheese, bollibeef, turkish sucuk, salami, tomatoes, picallily and Mayo) ",
+                "description": {
+                  "tr": "Hellim, kaşar peyniri, bollibif, sucuk, salam, domates,bikla ve mayonez ",
+                  "eng": "Halloumi, kashar cheese, bollibeef, turkish sucuk, salami, tomatoes, picallily and Mayo "
+                },
                 "price": 260,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink9.jpg"
@@ -175,7 +217,10 @@
                   "tr": "Tavuk Sandviç",
                   "eng": "Chicken sandwich"
                 },
-                "description": "(Sandwich ekmegi, sezar sos, roka, dilim domatesler ve ızgara tavuk)  (Traditional sandwich bread, ceaser sauce, rocket, sliced tomatoes and grilled chicken)",
+                "description": {
+                  "tr": "Sandwich ekmegi, sezar sos, roka, dilim domatesler ve ızgara tavuk) ",
+                  "eng": "Traditional sandwich bread, ceaser sauce, rocket, sliced tomatoes and grilled chicken "
+                },
                 "price": 280,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/Tavuk%20sandwich.webp"
@@ -185,7 +230,10 @@
                   "tr": "Steakli Sandviç",
                   "eng": "Steakli Sandviç"
                 },
-                "description": "(Rustik baget ekmegi, akdeniz yeşilligi, domates, karamelize sogan, köz biber, chedar peyniri, dana antrikot ve demiglas sos) (Rustic baguette, green mixed leaves, tomatoes, caramalised onions, grilled peppers, chedder cheese, beef strips and a demi glaze sauce)",
+                "description": {
+                  "tr": "Rustik baget ekmegi, akdeniz yeşilligi, domates, karamelize sogan, köz biber, chedar peyniri, dana antrikot ve demiglas sos ",
+                  "eng": "Rustic baguette, green mixed leaves, tomatoes, caramalised onions, grilled peppers, chedder cheese, beef strips and a demi glaze sauce "
+                },
                 "price": 380,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/steak%20sandwich.webp"
@@ -195,7 +243,10 @@
                   "tr": "Ton Balıklı Sandviç ",
                   "eng": "Ton Balıklı Sandviç "
                 },
-                "description": "(Baget ekmeği, pink sos, roka, domates, ton balığı, kırmızı soğan ve haşlanmış yumurta) (White baguette bread, pink sauce, rocket, tomatoes, tuna flakes, red onions and boiled eggs)",
+                "description": {
+                  "tr": "Baget ekmeği, pink sos, roka, domates, ton balığı, kırmızı soğan ve haşlanmış yumurta ",
+                  "eng": "White baguette bread, pink sauce, rocket, tomatoes, tuna flakes, red onions and boiled eggs "
+                },
                 "price": 240,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/Tuna%20Sandwich.webp"
@@ -213,7 +264,10 @@
                   "tr": "Penne Pomodoro /  Arabiata",
                   "eng": "Penne Pomodoro /  Arabiata"
                 },
-                "description": "(Italyan domates soslu penne (Penne with italian tomato sauce)",
+                "description": {
+                  "tr": "Italyan domates soslu penne ",
+                  "eng": "Penne with italian tomato sauce "
+                },
                 "price": 320,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/Penne%20Arrabiata.webp"
@@ -223,7 +277,10 @@
                   "tr": "Spaghetti Bolognaise",
                   "eng": "Spaghetti Bolognaise"
                 },
-                "description": "(Bolenez soslu Spaghetti) (Spaghetti with Bolognese sauce)",
+                "description": {
+                  "tr": " Bolenez soslu Spaghetti",
+                  "eng": "Spaghetti with Bolognese sauce "
+                },
                 "price": 390,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/Spaghetti%20bolognaise.webp"
@@ -233,7 +290,10 @@
                   "tr": "Taglatellie Al Freddo",
                   "eng": "Taglatellie Al Freddo"
                 },
-                "description": "(Tavuk, mantar, beyaz şarap ve hafif krema soslu Papardelle) (Papardelle with chicken, mushrooms, white wine and light cream sauce)",
+                "description": {
+                  "tr": "Tavuk, mantar, beyaz şarap ve hafif krema soslu Papardelle ",
+                  "eng": "Papardelle with chicken, mushrooms, white wine and light cream sauce "
+                },
                 "price": 420,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/Taglatellie%20al%20fredo.webp"
@@ -243,7 +303,10 @@
                   "tr": "Grandmama’s gnocci",
                   "eng": "Grandmama’s gnocci"
                 },
-                "description": "(Patlıcan, feslegen, zeytin, domates sos ve mozarella) (Aubergeine,thyme,tomato sauce and mozarella) ",
+                "description": {
+                  "tr": "Patlıcan, feslegen, zeytin, domates sos ve mozarella ",
+                  "eng": "Aubergeine,thyme,tomato sauce and mozarella "
+                },
                 "price": 330,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/vegetable%20noodle.webp"
@@ -252,6 +315,10 @@
                 "name": {
                   "tr": "Spaghetti Al Pacino",
                   "eng": "Spaghetti Al Pacino"
+                },
+                "description": {
+                  "tr": " ",
+                  "eng": " "
                 },
                 "description": "(Spaghetti, Sarımsak, Zeytinyağı, Kuru Arnavut Biberi ve Parmesan)  (Spaghatti, Garlic, Olive Oiıl, Cayenne Pepper and Parmesan) ",
                 "price": 350,
@@ -271,6 +338,10 @@
                   "tr": " Sebzeli noodle",
                   "eng": "Vegetable Noodles/"
                 },
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "description": "(Renkli biberler, mantar, soğan, oyster sos, susame yağı, soy sauce ve soya filizi) (Mixed peppers, mushrooms, onions, oyster sauce, sesame oil, soy sauce) ",
                 "price": 430,
                 "availability": true,
@@ -281,6 +352,10 @@
                   "tr": "Tavuk noodles ",
                   "eng": "Chicken Noodles "
                 },
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "description": "(Tavuk goğus parçalar, renkli biberler, mantar, soğan, oyster sos, susame yağı, soy sauce ve soya filizi) (Sliced grilled chicken, mixed peppers, mushrooms, onions, oyster sauce, sesame oil, soy sauce and beansprouts)",
                 "price": 450,
                 "availability": true,
@@ -290,6 +365,10 @@
                 "name": {
                   "tr": "Et noodles",
                   "eng": "Beef Noodles"
+                },
+                "description": {
+                  "tr": " ",
+                  "eng": " "
                 },
                 "description": "(Dana bonfile parçaları, renkli biberler, mantar, soğan, oyster sos, susame yağı, soy sauce ve soya filizi) (Sliced beef, mixed peppers, mushrooms, onions, oyster sauce, sesame oil, soy sauce and beansprouts) ",
                 "price": 480,
@@ -309,6 +388,10 @@
                   "tr": "Etli Wrap",
                   "eng": "Steak Wrap"
                 },
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "description": "(Kızarmış dana parçaları, renkli biberler, sogan, mantar, chedar peyniri, range sos ve domates sos eşliğinde) (Sliced beef, mixed peppers, onions, mushrooms, chedder cheese wıth a side of ranch and tangy tomato sauce)",
                 "price": 360,
                 "availability": true,
@@ -318,6 +401,10 @@
                 "name": {
                   "tr": "Tavuk Wrap",
                   "eng": "Chicken Wrap"
+                },
+                "description": {
+                  "tr": " ",
+                  "eng": " "
                 },
                 "description": "(Tavuk parçaları, renkli biberler, sogan, marul, kaşar peyniri, kaşık patatesler  ve naneli yogurt) (Sliced chicken, mixed peppers, onions, mushrooms, chedder cheese wıth a side of mint yogurt )",
                 "price": 300,
@@ -329,6 +416,10 @@
                   "tr": "Vegeteryan Wrap",
                   "eng": "Vegeterian Wrap"
                 },
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "description": "(Renkli biberler, kabak, mantar, sogan, domates, marul, range ve domates sos eşliğinde) (Mixed peppers, onions, mushrooms, chedder cheese wıth a side of ranch and tangy tomato sauce)",
                 "price": 260,
                 "availability": true,
@@ -338,6 +429,10 @@
                 "name": {
                   "tr": "Vegeteryan Tacos",
                   "eng": "Vegeterian Tacos"
+                },
+                "description": {
+                  "tr": " ",
+                  "eng": " "
                 },
                 "description": "(Tortilla taco, karışık fırınlanmış sebzeler, mısır, jalapeno, meksikan fasulye,çedar peyniri) (Tortilla taco, mixed oven cooked vegetables, sweetcorn,jalapenos, red kidney beans and chedder cheese) ",
                 "price": 310,
@@ -349,6 +444,10 @@
                   "tr": "Tavuk Tacos",
                   "eng": "Chicken Tacos"
                 },
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "description": "(Tavuk parçaları, mısır, jalepeno, meksikan fasulyesi, çedar peyniri)  (Tortilla taco, sliced chicken breast, sweetcorn,jalapenos, red kidney beans and chedder cheese)",
                 "price": 350,
                 "availability": true,
@@ -358,6 +457,10 @@
                 "name": {
                   "tr": "Etli Tacos",
                   "eng": "Steak Tacos"
+                },
+                "description": {
+                  "tr": " ",
+                  "eng": " "
                 },
                 "description": "(Konfit  pişmiş dana eti, jalapeno, meksikan fasulyesi, çedar peyniri) (Tortilla Taco, Sliced steak, sweetcorn,jalapenos, red kidney beans and chedder cheese)",
                 "price": 380,
@@ -377,6 +480,10 @@
                   "tr": "Margarita",
                   "eng": "Margarita"
                 },
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "description": "(domates, dört peynir karışımı ve fesleğen) (tomatos, four cheese blend and thyme) ",
                 "price": "M 320tl L 380tl ",
                 "availability": true,
@@ -386,6 +493,10 @@
                 "name": {
                   "tr": "Pepperoni",
                   "eng": "Pepperoni"
+                },
+                "description": {
+                  "tr": " ",
+                  "eng": " "
                 },
                 "description": "(Duble pepperonı ve duble mozarella peyniri) (double peperonni and double mozzerella cheese)",
                 "price": "M 360tl L 420tl ",
@@ -397,6 +508,10 @@
                   "tr": "1938 Pizza",
                   "eng": "1938 Pizza"
                 },
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "description": "(salam, mantar, sucuk, mısır, zeytin, sosis, yeşil biber ve mozzarella peyniri) (salami, mushroom, turkish sucuk,olives, sausage, green peppers and mozzerella cheese)",
                 "price": " M 380tl L 440tl ",
                 "availability": true,
@@ -407,6 +522,10 @@
                   "tr": "Vegeteryan",
                   "eng": "Vegeterian"
                 },
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "description": "(Karışık sebzeler ve mozarella peyniri) (Mixed veges and mozzerella cheese)",
                 "price": " M 320tl L 380tl",
                 "availability": true,
@@ -416,6 +535,10 @@
                 "name": {
                   "tr": "4 Peynirli Pizza",
                   "eng": "4 Cheese Pizza"
+                },
+                "description": {
+                  "tr": " ",
+                  "eng": " "
                 },
                 "description": "(domates, dört peynir karışımı ve fesleğen)  (tomatos, four cheese blend and thyme) ",
                 "price": " M 350tl  L 410 tl",
@@ -435,6 +558,10 @@
                   "tr": "Kendin yumurtanı kendin yarat",
                   "eng": " Create your own eggs"
                 },
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "description": "İki adet goz yumurta/ two eggs sunny side up Ilaveler/extras- (peynir/cheese 10tl, sucuk/turkish sucuk 10tl, domates/tomatoes 10tl, mantar/mushrooms 10tl, biber/peppers 10tl)  ",
                 "price": 180,
                 "availability": true,
@@ -444,6 +571,10 @@
                 "name": {
                   "tr": "Kendin omletti kendin yarat",
                   "eng": "Create your own omlette"
+                },
+                "description": {
+                  "tr": " ",
+                  "eng": " "
                 },
                 "description": "Ilaveler/ Ilaveler - (peynir/ Cheese 10tl sucuk/turkish sucuk 10tl  domates/tomatoes 10tl mantar/mushrooms 10tl biber/peppers 10tl soğan/onions 10tl  acı biber/chilli peppers 10tl) ",
                 "price": 180,
@@ -455,6 +586,10 @@
                   "tr": "Karışık Omlette",
                   "eng": "Mixed Omlette"
                 },
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "description": "2 yumurtalı omlette, renkli biberler, kaşar peyniri, domates, mantar, salam) (2 egg omlette, mixed peppers, kashari cheese, tomatoes,mushrooms, salami)  ",
                 "price": 250,
                 "availability": true,
@@ -464,6 +599,10 @@
                 "name": {
                   "tr": "Menemen( acılı/acısız)",
                   "eng": "Menemen(Spicy/Normal)"
+                },
+                "description": {
+                  "tr": " ",
+                  "eng": " "
                 },
                 "description": "Ilaveler/ Extras- (peynir/cheese 10tl sucuk/turkish sucuk 10tl)",
                 "price": 260,
@@ -475,6 +614,10 @@
                   "tr": "Fit sporcu  omlette - cal 235",
                   "eng": "Sports omlette - cal 235"
                 },
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "description": "(4 yumurta beyazı, 1 yumurta sarısı, nor peyniri, limon soslu roka, concase  domates) (4 egg whites, 1 egg yolk, cypriot nor cheese, rocket, lemon juice, tomatoes)",
                 "price": 350,
                 "availability": true,
@@ -484,6 +627,10 @@
                 "name": {
                   "tr": "Kahvaltı tabağı",
                   "eng": "Turkish breakfast"
+                },
+                "description": {
+                  "tr": " ",
+                  "eng": " "
                 },
                 "description": "(Salatalık, Domates, zeytin, peynir çeşitleri, bal, tereyağı, reçel, izgara hellim, 2 sigara böreği, 1  yumurta (haşlanmış, kızartmış, çırpılmış) ve ekmek sepeti) (Cucumber, tomato, olives, a mix of cheeses, honey,butter, jam, grilled halloumi, 2 cigerette rolls, 1 egg of choice(boiled, fried or scrambled) and a bread basket)",
                 "price": 390,
@@ -495,6 +642,10 @@
                   "tr": "Granola kase",
                   "eng": "Granola Bowl"
                 },
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "description": "(Granola, Yoğurt, karşık mini dağ meveleri, hindistan cevizi, çilek, tarçın ve yeşil elma) (Granola, Yoghurt, mixed black forest fruits, coconut, strawberries, cinnamon and apple) ",
                 "price": 280,
                 "availability": true,
@@ -504,6 +655,10 @@
                 "name": {
                   "tr": "Yulaf ezmesi",
                   "eng": "Porridge"
+                },
+                "description": {
+                  "tr": " ",
+                  "eng": " "
                 },
                 "description": "(Yulaf, soya süttü, bal, frambuaz sosu, mini dağ meyveleri) (Oats, soya milk, honey, raspberry sauce and black forest fruits)",
                 "price": 300,
@@ -523,6 +678,10 @@
                   "tr": "Keyif Tabağı ( 2-4 Kişillik)",
                   "eng": "Sharing Platter  ( 2-4 People)"
                 },
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "description": "(Sogan halkası, samosa, mini kofte topları, çitir tavuk, kaşık patates, sosis, sigara boregi ve soslar) (Onion rings, samosas, mini meatballs, crispy chicken, fries, mini chipolata sasages, cigerette roll and a mix of sauces)",
                 "price": " 460tl - 680tl",
                 "availability": true,
@@ -532,6 +691,10 @@
                 "name": {
                   "tr": "Çıtır Asya Tavuk",
                   "eng": "Çıtır Asya Tavuk"
+                },
+                "description": {
+                  "tr": " ",
+                  "eng": " "
                 },
                 "description": "(Panelenmiş çitır tavuk parçaları, salsa verde, meksikan biberi, sweet chilli sos ve baharatlı patates kızartması ile servis edilir) (breaded crispy chicken pieces served with salsa verde, mexican chilli peppers, sweet chilli dipping sauce and fries) ",
                 "price": 350,
@@ -543,6 +706,10 @@
                   "tr": "Klasik Nachos",
                   "eng": "Classic Nachos"
                 },
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "description": "(Chedar peyniri, meksikan fasulyesi, jalepeno biberi, mısır, guacamole ve salsa) (cheddar cheese, red kidney beans, jalepenos, sweetcorn, guacomole and salsa)",
                 "price": 270,
                 "availability": true,
@@ -553,6 +720,10 @@
                   "tr": " Nachos Et",
                   "eng": " Nachos Beef"
                 },
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "description": "(Marine edilmiş et parcalı, Chedar peyniri, meksikan fasulyesi, jalepeno biberi, mısır, guacamole ve salsa) (Marinated beef strips,cheddar cheese, red kidney beans, jalepenos, sweetcorn, guacomole and salsa)",
                 "price": 340,
                 "availability": true,
@@ -562,6 +733,10 @@
                 "name": {
                   "tr": " Nachos Tavuk",
                   "eng": "Nachos Chicken "
+                },
+                "description": {
+                  "tr": " ",
+                  "eng": " "
                 },
                 "description": "(Marine edilmiş tavuk parcalı, Chedar peyniri, meksikan fasulyesi, jalepeno biberi, mısır, guacamole ve salsa) (Marinated chicken breast strips, cheddar cheese, red kidney beans, jalepenos, sweetcorn, guacomole and salsa)",
                 "price": 290,
@@ -581,6 +756,10 @@
                   "tr": "Klasik Sezar Salatası  ",
                   "eng": "Classic Caesar Salad "
                 },
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "description": "(İceberg,Kroton Ekmek, Klassik İtalyan Sezar Sosu,Parmesan)  (Iceberg lettuce, Crouton, Classic italyan Ceaser Sauce and Parmesan)",
                 "price": 250,
                 "availability": true,
@@ -590,6 +769,10 @@
                 "name": {
                   "tr": " Tavuklu Sezar Salatası",
                   "eng": "Ceaser Salad With Grilled Chicken "
+                },
+                "description": {
+                  "tr": " ",
+                  "eng": " "
                 },
                 "description": "(İceberg,Kroton Ekmek, Klassik İtalyan Sezar Sosu,Parmesan ve Izgara Tavuk Dilimleri )  (Iceberg lettuce, Crouton, Classic italyan Ceaser Sauc, Parmesan and Grilled Chicken)",
                 "price": 300,
@@ -601,6 +784,10 @@
                   "tr": " Cafe 1938 Spor Salatası ",
                   "eng": " 1938 Sports Salad "
                 },
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "description": "(Mizuna, (baby ıspanak) haşlanmış kırmızı pancar, keci peyniri, dolmalık fıstık, taze sogan, balsamic sirkesi ve ballı kırmızı pancar sosu) (Mizuna leaves(baby spinach, boiled beetroot, goats cheese, peanuts, onion,balsamic vinegar and a honey beetroot dressing)",
                 "price": 250,
                 "availability": true,
@@ -610,6 +797,10 @@
                 "name": {
                   "tr": " Akdeniz Salatası",
                   "eng": " Mediterreanen Salad "
+                },
+                "description": {
+                  "tr": " ",
+                  "eng": " "
                 },
                 "description": "(Akdeniz yeşillikleri, mısır, zeytin, havuc, salatalık, chery domates, limon sosu ve zeytin yağı) (Mixed green leaves, sweetcorn, olives, carrot, cucumber, cherry tomatos, lemon and olive oil dressing) ",
                 "price": 250,
@@ -621,6 +812,10 @@
                   "tr": " ızgara hellim salatası ",
                   "eng": "Grilled Halloumi Salad  "
                 },
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "description": "(Izgara hellim, akdeniz yeşilikleri, fırınlanmış sebzeler, salatalık, pesto sosu) (Grilled halloumi cheese, mixed green leaves, oven baked veges, cucumber and a pesto dressing)",
                 "price": 300,
                 "availability": true,
@@ -630,6 +825,10 @@
                 "name": {
                   "tr": "Ton Balıklı Salatası ",
                   "eng": "Tuna salad  "
+                },
+                "description": {
+                  "tr": " ",
+                  "eng": " "
                 },
                 "description": "(Taze baharatlı fırınlanmış patates, haşlanmış yumurta, roka, iceberg, cherry domates,zeytin yağ ve limon sosu) (Fresh oven baked potatoes, boiled egg, rocket, iceberg lettuce, cherry tomatos served with an olive oil and lemon dressing)",
                 "price": 300,
@@ -649,6 +848,10 @@
                   "tr": " Pasta and Meatballs",
                   "eng": "Pasta and Meatballs "
                 },
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "description": "(Domates soslu Makarana ve Mini Köfte Topları) (Pasta with Tomato Sauce and Mini Meatballs)",
                 "price": 280,
                 "availability": true,
@@ -658,6 +861,10 @@
                 "name": {
                   "tr": "Chicken Fingers ve Kaşık Patates ",
                   "eng": "Chicken Fingers ve Kaşık Patates "
+                },
+                "description": {
+                  "tr": " ",
+                  "eng": " "
                 },
                 "description": "",
                 "price": 250,
@@ -669,6 +876,10 @@
                   "tr": " Mini Kids Margerita Pizza ve Kaşık Patates",
                   "eng": "Mini Kids Margerita Pizza ve Kaşık Patates "
                 },
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "description": "",
                 "price": 230,
                 "availability": true,
@@ -679,6 +890,10 @@
                   "tr": " Mini Kids Karışık Pizza ve Kaşık Patates",
                   "eng": "Mini Kids Karışık Pizza ve Kaşık Patates "
                 },
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "description": "",
                 "price": 250,
                 "availability": true,
@@ -688,6 +903,10 @@
                 "name": {
                   "tr": "Mini Kids Burger ve Kaşık Patates ",
                   "eng": "Mini Kids Burger ve Kaşık Patates "
+                },
+                "description": {
+                  "tr": " ",
+                  "eng": " "
                 },
                 "description": "",
                 "price": 280,
@@ -713,6 +932,10 @@
                   "tr": " Brit Tonic",
                   "eng": "Brit Tonic "
                 },
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "description": "",
                 "price": 55,
                 "availability": true,
@@ -722,6 +945,10 @@
                 "name": {
                   "tr": " Fanta",
                   "eng": "Fanta"
+                },
+                "description": {
+                  "tr": " ",
+                  "eng": " "
                 },
                 "description": "",
                 "price": 60,
@@ -733,7 +960,10 @@
                   "tr": " Coca Cola",
                   "eng": "Coca Cola "
                 },
-                "description": "",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 60,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -743,7 +973,10 @@
                   "tr": " Coca Cola Zero",
                   "eng": " Coca Cola Zero"
                 },
-                "description": "",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 60,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -753,7 +986,10 @@
                   "tr": " Sprite",
                   "eng": " Sprite"
                 },
-                "description": "",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 60,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -763,7 +999,10 @@
                   "tr": "Kutu Meyve Suyu (20cl) ",
                   "eng": " Kutu Meyve Suyu (20cl)"
                 },
-                "description": "",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 25,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -773,7 +1012,10 @@
                   "tr": "Karışık Cappy ",
                   "eng": "Karışık Cappy "
                 },
-                "description": "",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 60,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -783,7 +1025,10 @@
                   "tr": "Reb Bull ",
                   "eng": "Reb Bull "
                 },
-                "description": "",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 80,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -793,7 +1038,10 @@
                   "tr": " Soda",
                   "eng": "Soda "
                 },
-                "description": "",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 50,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -803,7 +1051,10 @@
                   "tr": " Soğuk Çay (Şeftali/Limon)",
                   "eng": "Soğuk Çay (Şeftali/Limon) "
                 },
-                "description": "",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 60,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -813,7 +1064,10 @@
                   "tr": " Küçük Su",
                   "eng": "Küçük Su "
                 },
-                "description": "",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 35,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -823,7 +1077,10 @@
                   "tr": " Büyük Su",
                   "eng": "Büyük Su "
                 },
-                "description": "",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 35,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -833,7 +1090,10 @@
                   "tr": "Limonata ",
                   "eng": "Limonata "
                 },
-                "description": "",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 70,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -843,7 +1103,10 @@
                   "tr": " Limonlu Soda",
                   "eng": " Limonlu Soda"
                 },
-                "description": "",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 80,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -861,7 +1124,10 @@
                   "tr": "Latte ",
                   "eng": "Latte "
                 },
-                "description": "",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 130,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -871,7 +1137,10 @@
                   "tr": " Flavoures Latte",
                   "eng": "Flavoures Latte "
                 },
-                "description": "",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 150,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -881,7 +1150,10 @@
                   "tr": "Americano ",
                   "eng": " Americano"
                 },
-                "description": "",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 120,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -891,7 +1163,10 @@
                   "tr": "Chai Latte",
                   "eng": " Chai Latte"
                 },
-                "description": "",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 140,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -901,7 +1176,10 @@
                   "tr": "Mocha ",
                   "eng": "Mocha "
                 },
-                "description": "",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 150,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -911,7 +1189,10 @@
                   "tr": " White Mocha",
                   "eng": " White Mocha"
                 },
-                "description": "",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 150,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -921,7 +1202,10 @@
                   "tr": " Espresso",
                   "eng": "Espresso "
                 },
-                "description": "",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 80,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -931,7 +1215,10 @@
                   "tr": "Double Espresso ",
                   "eng": " Double Espresso"
                 },
-                "description": "",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 100,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -941,7 +1228,10 @@
                   "tr": "Espresso Maccihato ",
                   "eng": "Espresso Maccihato"
                 },
-                "description": "",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 110,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -951,7 +1241,10 @@
                   "tr": "Filter Coffee ",
                   "eng": "Filter Coffee "
                 },
-                "description": "",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 120,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -961,7 +1254,10 @@
                   "tr": "Cappuccino ",
                   "eng": " Cappuccino"
                 },
-                "description": "",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 130,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -971,7 +1267,10 @@
                   "tr": " Latte Maccihato",
                   "eng": "Latte Maccihato "
                 },
-                "description": "",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 130,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -981,7 +1280,10 @@
                   "tr": " Flat White",
                   "eng": " Flat White"
                 },
-                "description": "",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 130,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -991,7 +1293,10 @@
                   "tr": " Chocolate",
                   "eng": "Chocolate "
                 },
-                "description": "",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 140,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -1001,7 +1306,10 @@
                   "tr": "White Chocolate ",
                   "eng": " White Chocolate"
                 },
-                "description": "",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 140,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -1011,7 +1319,10 @@
                   "tr": " Turkish Coffee",
                   "eng": " Turkish Coffee"
                 },
-                "description": "",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 50,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -1029,7 +1340,10 @@
                   "tr": " Vanilla",
                   "eng": "Vanilla "
                 },
-                "description": "",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 100,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -1039,7 +1353,10 @@
                   "tr": "Chocolate ",
                   "eng": "Chocolate "
                 },
-                "description": "",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 100,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -1049,7 +1366,10 @@
                   "tr": " Strawberry",
                   "eng": "Strawberry "
                 },
-                "description": "",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 100,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -1059,7 +1379,10 @@
                   "tr": "Banana ",
                   "eng": "Banana "
                 },
-                "description": "",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 100,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -1069,7 +1392,10 @@
                   "tr": "Caramel ",
                   "eng": "Caramel "
                 },
-                "description": "",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 100,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -1087,7 +1413,10 @@
                   "tr": "Melon/Watermelon ",
                   "eng": " Melon/Watermelon"
                 },
-                "description": "",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 120,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -1097,7 +1426,10 @@
                   "tr": " Strawberry",
                   "eng": " Strawberry"
                 },
-                "description": "",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 120,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -1107,7 +1439,10 @@
                   "tr": " Banana",
                   "eng": "Banana "
                 },
-                "description": "",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 120,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -1117,7 +1452,10 @@
                   "tr": " Green Apple",
                   "eng": " Green Apple"
                 },
-                "description": "",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 120,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -1127,7 +1465,10 @@
                   "tr": " Mango",
                   "eng": "Mango "
                 },
-                "description": "",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 120,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -1153,6 +1494,10 @@
                   "eng": "Efes "
                 },
                 "description": "50cl",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 120,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -1163,6 +1508,10 @@
                   "eng": "Bomonti Filtresiz "
                 },
                 "description": "50cl",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 150,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -1173,6 +1522,10 @@
                   "eng": "Becks "
                 },
                 "description": "50cl",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 120,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -1183,6 +1536,10 @@
                   "eng": "Bud "
                 },
                 "description": "50cl",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 150,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -1193,6 +1550,10 @@
                   "eng": " Miller"
                 },
                 "description": "33cl",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 120,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -1203,6 +1564,10 @@
                   "eng": "Corona "
                 },
                 "description": "33cl",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 150,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -1213,6 +1578,10 @@
                   "eng": "Heineken "
                 },
                 "description": "33cl",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 120,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -1222,7 +1591,10 @@
                   "tr": " Strongbow",
                   "eng": "Strongbow "
                 },
-                "description": "",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 150,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -1240,7 +1612,10 @@
                   "tr": "Espresso Martini ",
                   "eng": "Espresso Martini "
                 },
-                "description": "",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 250,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -1250,7 +1625,10 @@
                   "tr": " Pornstar Martini",
                   "eng": "Pornstar Martini "
                 },
-                "description": "",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 250,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -1260,7 +1638,10 @@
                   "tr": " 1938 Special Cocktail",
                   "eng": " 1938 Special Cocktail"
                 },
-                "description": "",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 250,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -1270,7 +1651,10 @@
                   "tr": "Whiskey sour ",
                   "eng": "Whiskey sour "
                 },
-                "description": "",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 250,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -1280,7 +1664,10 @@
                   "tr": " Sex on the beach",
                   "eng": "Sex on the beach "
                 },
-                "description": "",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 250,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -1290,7 +1677,10 @@
                   "tr": "Mojito ",
                   "eng": " Mojito"
                 },
-                "description": "",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 250,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -1300,7 +1690,10 @@
                   "tr": " Pina Colada",
                   "eng": "Pina Colada "
                 },
-                "description": "",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 250,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -1319,6 +1712,10 @@
                   "eng": " Finlandia"
                 },
                 "description": "50ml",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 240,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -1329,6 +1726,10 @@
                   "eng": " Absolut"
                 },
                 "description": "50ml",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 240,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -1347,6 +1748,10 @@
                   "eng": "Chivas "
                 },
                 "description": "50 ml",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 250,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -1357,6 +1762,10 @@
                   "eng": " Black Label"
                 },
                 "description": "50 ml",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 250,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
@@ -1367,6 +1776,10 @@
                   "eng": "Jack Daniels "
                 },
                 "description": "50 ml",
+                "description": {
+                  "tr": " ",
+                  "eng": " "
+                },
                 "price": 220,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
