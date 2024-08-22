@@ -676,98 +676,140 @@
             "menu": "Soft içecekler",
             "items": [
               {
-                "name": "Brit Tonic",
+                "name": {
+                  "tr": " Brit Tonic",
+                  "eng": "Brit Tonic "
+                },
                 "description": "",
                 "price": 55,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Fanta",
+                "name": {
+                  "tr": " Fanta",
+                  "eng": "Fanta"
+                },
                 "description": "",
                 "price": 60,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Coca Cola",
+                "name": {
+                  "tr": " Coca Cola",
+                  "eng": "Coca Cola "
+                },
                 "description": "",
                 "price": 60,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Coca Cola Zero",
+                "name": {
+                  "tr": " Coca Cola Zero",
+                  "eng": " Coca Cola Zero"
+                },
                 "description": "",
                 "price": 60,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Sprite",
+                "name": {
+                  "tr": " Sprite",
+                  "eng": " Sprite"
+                },
                 "description": "",
                 "price": 60,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Kutu Meyve Suyu (20cl)",
+                "name": {
+                  "tr": "Kutu Meyve Suyu (20cl) ",
+                  "eng": " Kutu Meyve Suyu (20cl)"
+                },
                 "description": "",
                 "price": 25,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Karışık Cappy",
+                "name": {
+                  "tr": "Karışık Cappy ",
+                  "eng": "Karışık Cappy "
+                },
                 "description": "",
                 "price": 60,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Reb Bull",
+                "name": {
+                  "tr": "Reb Bull ",
+                  "eng": "Reb Bull "
+                },
                 "description": "",
                 "price": 80,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Soda",
+                "name": {
+                  "tr": " Soda",
+                  "eng": "Soda "
+                },
                 "description": "",
                 "price": 50,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Soğuk Çay (Şeftali/Limon)",
+                "name": {
+                  "tr": " Soğuk Çay (Şeftali/Limon)",
+                  "eng": "Soğuk Çay (Şeftali/Limon) "
+                },
                 "description": "",
                 "price": 60,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Küçük Su",
+                "name": {
+                  "tr": " Küçük Su",
+                  "eng": "Küçük Su "
+                },
                 "description": "",
                 "price": 35,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Büyük Su",
+                "name": {
+                  "tr": " Büyük Su",
+                  "eng": "Büyük Su "
+                },
                 "description": "",
                 "price": 35,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Limonata",
+                "name": {
+                  "tr": "Limonata ",
+                  "eng": "Limonata "
+                },
                 "description": "",
                 "price": 70,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Limonlu Soda",
+                "name": {
+                  "tr": " Limonlu Soda",
+                  "eng": " Limonlu Soda"
+                },
                 "description": "",
                 "price": 80,
                 "availability": true,
