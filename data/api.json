@@ -460,6 +460,46 @@
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/grilled%20hellim%20salad.webp"
               }
             ]
+          },
+          {
+            "menu": "Childrens Menu / Çoçuk Menüsü",
+            "items": [
+              {
+                "name": "Pasta and Meatballs",
+                "description": "(Domates soslu Makarana ve Mini Köfte Topları) (Pasta with Tomato Sauce and Mini Meatballs)",
+                "price": 280,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/tavuklu%20sezar%20salata.webp"
+              },
+              {
+                "name": "Chicken Fingers ve Kaşık Patates",
+                "description": "",
+                "price": 250,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              },
+              {
+                "name": "Mini Kids Margerita Pizza ve Kaşık Patates",
+                "description": "",
+                "price": 230,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              },
+              {
+                "name": "Mini Kids Karışık Pizza ve Kaşık Patates",
+                "description": "",
+                "price": 250,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/grilled%20hellim%20salad.webp"
+              },
+              {
+                "name": "Mini Kids Burger ve Kaşık Patates",
+                "description": "",
+                "price": 280,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/Tuna%20salad.webp"
+              }
+            ]
           }
         ]
       },
