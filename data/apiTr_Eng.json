@@ -1452,10 +1452,9 @@
                   "tr": " Efes",
                   "eng": "Efes "
                 },
-                "description": "50cl",
                 "description": {
-                  "tr": " ",
-                  "eng": " "
+                  "tr": " 50cl",
+                  "eng": "50cl "
                 },
                 "price": 120,
                 "availability": true,
@@ -1466,10 +1465,9 @@
                   "tr": "Bomonti Filtresiz ",
                   "eng": "Bomonti Filtresiz "
                 },
-                "description": "50cl",
                 "description": {
-                  "tr": " ",
-                  "eng": " "
+                  "tr": " 50cl",
+                  "eng": " 50cl"
                 },
                 "price": 150,
                 "availability": true,
@@ -1480,10 +1478,9 @@
                   "tr": " Becks",
                   "eng": "Becks "
                 },
-                "description": "50cl",
                 "description": {
-                  "tr": " ",
-                  "eng": " "
+                  "tr": " 50cl",
+                  "eng": "50cl "
                 },
                 "price": 120,
                 "availability": true,
@@ -1494,10 +1491,9 @@
                   "tr": "Bud ",
                   "eng": "Bud "
                 },
-                "description": "50cl",
                 "description": {
-                  "tr": " ",
-                  "eng": " "
+                  "tr": " 50cl",
+                  "eng": "50cl "
                 },
                 "price": 150,
                 "availability": true,
@@ -1508,10 +1504,9 @@
                   "tr": "Miller ",
                   "eng": " Miller"
                 },
-                "description": "33cl",
                 "description": {
-                  "tr": " ",
-                  "eng": " "
+                  "tr": "33cl ",
+                  "eng": "33cl "
                 },
                 "price": 120,
                 "availability": true,
@@ -1522,10 +1517,9 @@
                   "tr": " Corona",
                   "eng": "Corona "
                 },
-                "description": "33cl",
                 "description": {
-                  "tr": " ",
-                  "eng": " "
+                  "tr": "33cl ",
+                  "eng": " 33cl"
                 },
                 "price": 150,
                 "availability": true,
@@ -1536,10 +1530,9 @@
                   "tr": "Heineken ",
                   "eng": "Heineken "
                 },
-                "description": "33cl",
                 "description": {
-                  "tr": " ",
-                  "eng": " "
+                  "tr": "33cl ",
+                  "eng": " 33cl"
                 },
                 "price": 120,
                 "availability": true,
@@ -1670,10 +1663,9 @@
                   "tr": "Finlandia ",
                   "eng": " Finlandia"
                 },
-                "description": "50ml",
                 "description": {
-                  "tr": " ",
-                  "eng": " "
+                  "tr": " 50ml",
+                  "eng": " 50ml"
                 },
                 "price": 240,
                 "availability": true,
@@ -1684,10 +1676,9 @@
                   "tr": " Absolut",
                   "eng": " Absolut"
                 },
-                "description": "50ml",
                 "description": {
-                  "tr": " ",
-                  "eng": " "
+                  "tr": "50ml ",
+                  "eng": "50ml "
                 },
                 "price": 240,
                 "availability": true,
@@ -1706,10 +1697,9 @@
                   "tr": "Chivas ",
                   "eng": "Chivas "
                 },
-                "description": "50 ml",
                 "description": {
-                  "tr": " ",
-                  "eng": " "
+                  "tr": "50ml ",
+                  "eng": " 50ml"
                 },
                 "price": 250,
                 "availability": true,
@@ -1720,10 +1710,9 @@
                   "tr": "Black Label ",
                   "eng": " Black Label"
                 },
-                "description": "50 ml",
                 "description": {
-                  "tr": " ",
-                  "eng": " "
+                  "tr": "50ml ",
+                  "eng": " 50ml"
                 },
                 "price": 250,
                 "availability": true,
@@ -1734,10 +1723,9 @@
                   "tr": " Jack Daniels",
                   "eng": "Jack Daniels "
                 },
-                "description": "50 ml",
                 "description": {
-                  "tr": " ",
-                  "eng": " "
+                  "tr": "50ml ",
+                  "eng": "50ml "
                 },
                 "price": 220,
                 "availability": true,
