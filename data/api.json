@@ -274,33 +274,40 @@
             ]
           },
           {
-            "menu": "Pizza",
+            "menu": "Pizza’s/Pizalar",
             "items": [
               {
                 "name": "Margarita",
-                "description": "domates, dört peynir karışımı ve fesleğen (tomatos, four cheese blend and thyme)",
-                "price": 8.99,
+                "description": "(domates, dört peynir karışımı ve fesleğen) (tomatos, four cheese blend and thyme) ",
+                "price": "M 320tl L 380tl ",
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/margarita%20pizza.webp"
               },
               {
                 "name": "Pepperoni",
-                "description": "double Pepperoni, ve double mozarella peyniri (double Peperonni and double Mozarella cheese)",
-                "price": 8.99,
+                "description": "(Duble pepperonı ve duble mozarella peyniri) (double peperonni and double mozzerella cheese)",
+                "price": "M 360tl L 420tl ",
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/pepperoni%20pizza.webp"
               },
               {
                 "name": "1938 Pizza",
-                "description": "salam, mantar, sucuk, mısır, zeytin, sosis, yeşil biber ve Mozarella peyniri (salami, mashroom, turkish pepperoni, olives, sausage, green peppers and Mozarella cheese)",
-                "price": 8.99,
+                "description": "(salam, mantar, sucuk, mısır, zeytin, sosis, yeşil biber ve mozzarella peyniri) (salami, mushroom, turkish sucuk,olives, sausage, green peppers and mozzerella cheese)",
+                "price": " M 380tl L 440tl ",
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/1938%20pizza.webp"
               },
               {
                 "name": "Vegeterian",
-                "description": "karışık sebzeler ve Mozarella peyniri (mixed veges and Mozarella cheese)",
-                "price": 8.99,
+                "description": "(Karışık sebzeler ve mozarella peyniri) (Mixed veges and mozzerella cheese)",
+                "price": " M 320tl L 380tl",
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/vegeterian%20pizza.webp"
+              },
+              {
+                "name": "4 Peynirli Pizza",
+                "description": "(domates, dört peynir karışımı ve fesleğen)  (tomatos, four cheese blend and thyme) ",
+                "price": " M 350tl  L 410 tl",
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/vegeterian%20pizza.webp"
               }
