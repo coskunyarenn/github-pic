@@ -87,7 +87,10 @@
             ]
           },
           {
-            "menu": "Burgers",
+            "menu": {
+              "tr": " Burgerler",
+              "eng": "Burgers "
+            },
             "items": [
               {
                 "name": {
@@ -132,7 +135,10 @@
             ]
           },
           {
-            "menu": "Tost ve sandviç / Sandwiches and toasted sandwiches ",
+            "menu": {
+              "tr": "Tost ve sandviç  ",
+              "eng": " Sandwiches and toasted sandwiches "
+            },
             "items": [
               {
                 "name": {
@@ -197,7 +203,10 @@
             ]
           },
           {
-            "menu": "Pasta / Makarana ",
+            "menu": {
+              "tr": "Makarana ",
+              "eng": " Pasta"
+            },
             "items": [
               {
                 "name": {
@@ -252,7 +261,10 @@
             ]
           },
           {
-            "menu": "Noodles",
+            "menu": {
+              "tr": " Noodles",
+              "eng": " Noodles"
+            },
             "items": [
               {
                 "name": {
@@ -287,7 +299,10 @@
             ]
           },
           {
-            "menu": "Dürüm ve Taco",
+            "menu": {
+              "tr": " Dürüm ve Taco",
+              "eng": " Wraps and Taco"
+            },
             "items": [
               {
                 "name": {
@@ -352,7 +367,10 @@
             ]
           },
           {
-            "menu": "Pizza’s/Pizalar",
+            "menu": {
+              "tr": " Pizalar",
+              "eng": "Pizza’s "
+            },
             "items": [
               {
                 "name": {
@@ -407,7 +425,10 @@
             ]
           },
           {
-            "menu": "Breakfast / Kahvaltı",
+            "menu": {
+              "tr": " Kahvaltı",
+              "eng": " Breakfast"
+            },
             "items": [
               {
                 "name": {
@@ -492,7 +513,10 @@
             ]
           },
           {
-            "menu": "Bar Snacks",
+            "menu": {
+              "tr": "Atıştırmalıklar ",
+              "eng": " Bar Snacks"
+            },
             "items": [
               {
                 "name": {
@@ -547,7 +571,10 @@
             ]
           },
           {
-            "menu": "Salads",
+            "menu": {
+              "tr": "Salatalar ",
+              "eng": " Salads"
+            },
             "items": [
               {
                 "name": {
@@ -612,7 +639,10 @@
             ]
           },
           {
-            "menu": "Childrens Menu / Çoçuk Menüsü",
+            "menu": {
+              "tr": "Çocuk Menüsü ",
+              "eng": " Childrens Menu "
+            },
             "items": [
               {
                 "name": {
@@ -673,7 +703,10 @@
         "deepNote": "",
         "subSections": [
           {
-            "menu": "Soft içecekler",
+            "menu": {
+              "tr": "Soft içecekler ",
+              "eng": " Soft Drinks"
+            },
             "items": [
               {
                 "name": {
@@ -818,7 +851,10 @@
             ]
           },
           {
-            "menu": "Kahveler",
+            "menu": {
+              "tr": " Kahveler",
+              "eng": " Coffees"
+            },
             "items": [
               {
                 "name": {
@@ -983,7 +1019,10 @@
             ]
           },
           {
-            "menu": "Milkshakes",
+            "menu": {
+              "tr": " Milkshakes",
+              "eng": " Milkshakes"
+            },
             "items": [
               {
                 "name": {
@@ -1038,7 +1077,10 @@
             ]
           },
           {
-            "menu": "Smoothies",
+            "menu": {
+              "tr": "Smoothies ",
+              "eng": " Smoothies"
+            },
             "items": [
               {
                 "name": {
@@ -1100,59 +1142,86 @@
         "deepNote": "After 8PM",
         "subSections": [
           {
-            "menu": "Biralar",
+            "menu": {
+              "tr": "Biralar ",
+              "eng": " Beers"
+            },
             "items": [
               {
-                "name": "Efes ",
+                "name": {
+                  "tr": " Efes",
+                  "eng": "Efes "
+                },
                 "description": "50cl",
                 "price": 120,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Bomonti Filtresiz",
-                "description": "50cl",
-                "price": 150,
-                "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
-              },
-              {
-                "name": "Becks",
-                "description": "50cl",
-                "price": 120,
-                "availability": true,
-                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
-              },
-              {
-                "name": "Bud ",
+                "name": {
+                  "tr": "Bomonti Filtresiz ",
+                  "eng": "Bomonti Filtresiz "
+                },
                 "description": "50cl",
                 "price": 150,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Miller ",
+                "name": {
+                  "tr": " Becks",
+                  "eng": "Becks "
+                },
+                "description": "50cl",
+                "price": 120,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              },
+              {
+                "name": {
+                  "tr": "Bud ",
+                  "eng": "Bud "
+                },
+                "description": "50cl",
+                "price": 150,
+                "availability": true,
+                "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
+              },
+              {
+                "name": {
+                  "tr": "Miller ",
+                  "eng": " Miller"
+                },
                 "description": "33cl",
                 "price": 120,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Corona  ",
+                "name": {
+                  "tr": " Corona",
+                  "eng": "Corona "
+                },
                 "description": "33cl",
                 "price": 150,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Heineken  ",
+                "name": {
+                  "tr": "Heineken ",
+                  "eng": "Heineken "
+                },
                 "description": "33cl",
                 "price": 120,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Strongbow ",
+                "name": {
+                  "tr": " Strongbow",
+                  "eng": "Strongbow "
+                },
                 "description": "",
                 "price": 150,
                 "availability": true,
@@ -1161,52 +1230,76 @@
             ]
           },
           {
-            "menu": "Kokteyler",
+            "menu": {
+              "tr": " Kokteyler",
+              "eng": " Cocktails"
+            },
             "items": [
               {
-                "name": "Espresso Martini",
+                "name": {
+                  "tr": "Espresso Martini ",
+                  "eng": "Espresso Martini "
+                },
                 "description": "",
                 "price": 250,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Pornstar Martini",
+                "name": {
+                  "tr": " Pornstar Martini",
+                  "eng": "Pornstar Martini "
+                },
                 "description": "",
                 "price": 250,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "1938 Special Cocktail",
+                "name": {
+                  "tr": " 1938 Special Cocktail",
+                  "eng": " 1938 Special Cocktail"
+                },
                 "description": "",
                 "price": 250,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Whiskey sour",
+                "name": {
+                  "tr": "Whiskey sour ",
+                  "eng": "Whiskey sour "
+                },
                 "description": "",
                 "price": 250,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Sex on the beach",
+                "name": {
+                  "tr": " Sex on the beach",
+                  "eng": "Sex on the beach "
+                },
                 "description": "",
                 "price": 250,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Mojito",
+                "name": {
+                  "tr": "Mojito ",
+                  "eng": " Mojito"
+                },
                 "description": "",
                 "price": 250,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Pina Colada",
+                "name": {
+                  "tr": " Pina Colada",
+                  "eng": "Pina Colada "
+                },
                 "description": "",
                 "price": 250,
                 "availability": true,
@@ -1215,17 +1308,26 @@
             ]
           },
           {
-            "menu": "Votka",
+            "menu": {
+              "tr": "Votka ",
+              "eng": " Vodka"
+            },
             "items": [
               {
-                "name": "Finlandia ",
+                "name": {
+                  "tr": "Finlandia ",
+                  "eng": " Finlandia"
+                },
                 "description": "50ml",
                 "price": 240,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Absolut ",
+                "name": {
+                  "tr": " Absolut",
+                  "eng": " Absolut"
+                },
                 "description": "50ml",
                 "price": 240,
                 "availability": true,
@@ -1234,24 +1336,36 @@
             ]
           },
           {
-            "menu": "Viski",
+            "menu": {
+              "tr": "Viski ",
+              "eng": "Whiskey "
+            },
             "items": [
               {
-                "name": "Chivas ",
+                "name": {
+                  "tr": "Chivas ",
+                  "eng": "Chivas "
+                },
                 "description": "50 ml",
                 "price": 250,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Black Labe",
+                "name": {
+                  "tr": "Black Label ",
+                  "eng": " Black Label"
+                },
                 "description": "50 ml",
                 "price": 250,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Jack Daniels",
+                "name": {
+                  "tr": " Jack Daniels",
+                  "eng": "Jack Daniels "
+                },
                 "description": "50 ml",
                 "price": 220,
                 "availability": true,
