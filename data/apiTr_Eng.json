@@ -821,112 +821,160 @@
             "menu": "Kahveler",
             "items": [
               {
-                "name": "Latte",
+                "name": {
+                  "tr": "Latte ",
+                  "eng": "Latte "
+                },
                 "description": "",
                 "price": 130,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Flavoures Latte",
+                "name": {
+                  "tr": " Flavoures Latte",
+                  "eng": "Flavoures Latte "
+                },
                 "description": "",
                 "price": 150,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Americano",
+                "name": {
+                  "tr": "Americano ",
+                  "eng": " Americano"
+                },
                 "description": "",
                 "price": 120,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Chai Latte",
+                "name": {
+                  "tr": "Chai Latte",
+                  "eng": " Chai Latte"
+                },
                 "description": "",
                 "price": 140,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Mocha",
+                "name": {
+                  "tr": "Mocha ",
+                  "eng": "Mocha "
+                },
                 "description": "",
                 "price": 150,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "White Mocha",
+                "name": {
+                  "tr": " White Mocha",
+                  "eng": " White Mocha"
+                },
                 "description": "",
                 "price": 150,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Espresso",
+                "name": {
+                  "tr": " Espresso",
+                  "eng": "Espresso "
+                },
                 "description": "",
                 "price": 80,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Double Espresso ",
+                "name": {
+                  "tr": "Double Espresso ",
+                  "eng": " Double Espresso"
+                },
                 "description": "",
                 "price": 100,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Espresso Maccihato",
+                "name": {
+                  "tr": "Espresso Maccihato ",
+                  "eng": "Espresso Maccihato"
+                },
                 "description": "",
                 "price": 110,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Filter Coffee",
+                "name": {
+                  "tr": "Filter Coffee ",
+                  "eng": "Filter Coffee "
+                },
                 "description": "",
                 "price": 120,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Cappuccino",
+                "name": {
+                  "tr": "Cappuccino ",
+                  "eng": " Cappuccino"
+                },
                 "description": "",
                 "price": 130,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Latte Maccihato",
+                "name": {
+                  "tr": " Latte Maccihato",
+                  "eng": "Latte Maccihato "
+                },
                 "description": "",
                 "price": 130,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Flat White",
+                "name": {
+                  "tr": " Flat White",
+                  "eng": " Flat White"
+                },
                 "description": "",
                 "price": 130,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Chocolate",
+                "name": {
+                  "tr": " Chocolate",
+                  "eng": "Chocolate "
+                },
                 "description": "",
                 "price": 140,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "White Chocolate",
+                "name": {
+                  "tr": "White Chocolate ",
+                  "eng": " White Chocolate"
+                },
                 "description": "",
                 "price": 140,
                 "availability": true,
                 "image": "https://raw.githubusercontent.com/coskunyarenn/github-pic/main/assets/drink1.jpeg"
               },
               {
-                "name": "Turkish Coffee",
+                "name": {
+                  "tr": " Turkish Coffee",
+                  "eng": " Turkish Coffee"
+                },
                 "description": "",
                 "price": 50,
                 "availability": true,
