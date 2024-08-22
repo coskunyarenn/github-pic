@@ -879,7 +879,10 @@
         ]
       },
       {
-        "title": "İçecekler",
+         "title": {
+          "tr": "İçecekler",
+          "eng": "Drinks"
+        },
         "deepNote": "",
         "subSections": [
           {
@@ -1438,7 +1441,10 @@
       },
 
       {
-        "title": "8'den Sonra",
+          "title": {
+          "tr": "8'den Sonra",
+          "eng": "After 8PM"
+        },
         "deepNote": "After 8PM",
         "subSections": [
           {
