@@ -13,6 +13,10 @@
               "tr": "Ana yemekler",
               "eng": "Main Meals"
             },
+            "note": {
+              "tr": "Tüm fajitalarımız tortilla, guacomle sosu, range sos ve salsa ile servis edilir",
+              "eng": "All our fajitas are served with tortilla wraps, guacomole, ranch sauce and salsa"
+            },
             "items": [
               {
                 "name": {
@@ -112,6 +116,10 @@
               "tr": " Burgerler",
               "eng": "Burgers "
             },
+            "note": {
+              "tr": " Tüm burgerlerimiz baharatlı kaşık patates ve coleslaw  ile servis edilir ",
+              "eng": "All burgers served with seasoned fries and coleslaw."
+            },
             "items": [
               {
                 "name": {
@@ -171,6 +179,10 @@
             "menu": {
               "tr": "Tost ve sandviç  ",
               "eng": " Sandwiches and toasted sandwiches "
+            },
+            "note": {
+              "tr": "Tüm sandviç ve tostlarımız baharatlı kaşık patates ve colslaw ile servis edilir ",
+              "eng": "All sandwiches and toasted sandwiches served with seasoned fries and coleslaw. "
             },
             "items": [
               {
@@ -258,6 +270,11 @@
               "tr": "Makarana ",
               "eng": " Pasta"
             },
+            "note": {
+              "tr": " ",
+              "eng": " "
+            },
+
             "items": [
               {
                 "name": {
@@ -331,6 +348,11 @@
               "tr": " Noodles",
               "eng": " Noodles"
             },
+            "note": {
+              "tr": " ",
+              "eng": " "
+            },
+
             "items": [
               {
                 "name": {
@@ -377,6 +399,10 @@
             "menu": {
               "tr": " Dürüm ve Taco",
               "eng": " Wraps and Taco"
+            },
+            "note": {
+              "tr": " Tüm wraplarımız  baharatlı kaşık patates ve colslaw ile servis edilir",
+              "eng": "All wraps served with seasoned fries and coleslaw."
             },
             "items": [
               {
@@ -464,6 +490,11 @@
               "tr": " Pizalar",
               "eng": "Pizza’s "
             },
+            "note": {
+              "tr": " ",
+              "eng": " "
+            },
+
             "items": [
               {
                 "name": {
@@ -537,6 +568,11 @@
               "tr": " Kahvaltı",
               "eng": " Breakfast"
             },
+            "note": {
+              "tr": " ",
+              "eng": " "
+            },
+
             "items": [
               {
                 "name": {
@@ -649,6 +685,11 @@
               "tr": "Atıştırmalıklar ",
               "eng": " Bar Snacks"
             },
+            "note": {
+              "tr": " ",
+              "eng": " "
+            },
+
             "items": [
               {
                 "name": {
@@ -722,6 +763,11 @@
               "tr": "Salatalar ",
               "eng": " Salads"
             },
+            "note": {
+              "tr": " ",
+              "eng": " "
+            },
+
             "items": [
               {
                 "name": {
@@ -808,6 +854,11 @@
               "tr": "Çocuk Menüsü ",
               "eng": " Childrens Menu "
             },
+            "note": {
+              "tr": " ",
+              "eng": " "
+            },
+
             "items": [
               {
                 "name": {
@@ -879,7 +930,7 @@
         ]
       },
       {
-         "title": {
+        "title": {
           "tr": "İçecekler",
           "eng": "Drinks"
         },
@@ -890,6 +941,11 @@
               "tr": "Soft içecekler ",
               "eng": " Soft Drinks"
             },
+            "note": {
+              "tr": " ",
+              "eng": " "
+            },
+
             "items": [
               {
                 "name": {
@@ -1080,6 +1136,11 @@
               "tr": " Kahveler",
               "eng": " Coffees"
             },
+            "note": {
+              "tr": " ",
+              "eng": " "
+            },
+
             "items": [
               {
                 "name": {
@@ -1296,6 +1357,11 @@
               "tr": " Milkshakes",
               "eng": " Milkshakes"
             },
+            "note": {
+              "tr": " ",
+              "eng": " "
+            },
+
             "items": [
               {
                 "name": {
@@ -1369,6 +1435,11 @@
               "tr": "Smoothies ",
               "eng": " Smoothies"
             },
+            "note": {
+              "tr": " ",
+              "eng": " "
+            },
+
             "items": [
               {
                 "name": {
@@ -1441,7 +1512,7 @@
       },
 
       {
-          "title": {
+        "title": {
           "tr": "8'den Sonra",
           "eng": "After 8PM"
         },
@@ -1452,6 +1523,11 @@
               "tr": "Biralar ",
               "eng": " Beers"
             },
+            "note": {
+              "tr": " ",
+              "eng": " "
+            },
+
             "items": [
               {
                 "name": {
@@ -1564,6 +1640,11 @@
               "tr": " Kokteyler",
               "eng": " Cocktails"
             },
+            "note": {
+              "tr": " ",
+              "eng": " "
+            },
+
             "items": [
               {
                 "name": {
@@ -1663,6 +1744,11 @@
               "tr": "Votka ",
               "eng": " Vodka"
             },
+            "note": {
+              "tr": " ",
+              "eng": " "
+            },
+
             "items": [
               {
                 "name": {
@@ -1697,6 +1783,11 @@
               "tr": "Viski ",
               "eng": "Whiskey "
             },
+            "note": {
+              "tr": " ",
+              "eng": " "
+            },
+
             "items": [
               {
                 "name": {
